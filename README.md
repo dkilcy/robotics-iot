@@ -16,6 +16,7 @@
 | [RAYCorp® 1045 10x4.5 Propellers. 8 Pieces(4 CW, 4 CCW) Black & Red High Quality 10-inch Quadcopter and Multirotors Props + Battery strap](https://www.amazon.com/gp/product/B01CJMJ886) | $9.99 |
 | [Hobbypower SimonK 30A ESC Brushless Speed Controller BEC 2A for Quadcopter F450 X525 (Pack of 4 pcs)](https://www.amazon.com/gp/product/B00QRR7N32) | $26.99 |
 | [FrSky 900MHz Super 8 Antenna for R9M and R9M Lite Module](https://www.amazon.com/gp/product/B07KFSW94F) | $17.79 |
+| [3.7V 18500 Li-Ion Rechargeable Batteries with Flat Top (2pc+Charger)](https://www.amazon.com/gp/product/B06XXB7BL3) | $15.89 |
 
 ### Software
 
