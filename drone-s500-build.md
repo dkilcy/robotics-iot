@@ -20,11 +20,6 @@
 
 Total: $394.88
 
-### Software
-
-- Mission Planner
-
-
 ### References
 
 - https://www.frsky-rc.com/product/x8r/
