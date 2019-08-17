@@ -35,4 +35,5 @@ Total: $394.88
 - [Pixhawk Wiring Quick Start](http://ardupilot.org/copter/docs/common-pixhawk-wiring-and-quick-start.html)
 - [Building your own quadcopter! (S500 Frame + APM 2.8)](https://www.youtube.com/watch?v=WWoDdBTV67Q)
 - [Painless360 - Introduction to PixHawk Flight Controller](https://www.youtube.com/playlist?list=PLYsWjANuAm4r4idFZY24pP6s1K6ABMU0p)
+- [How to setup 16 channels on FrSky X8R using SBUS](https://www.youtube.com/watch?v=jUkutJrzXFI)
 - [Flash Frsky Receiver Firmware](https://oscarliang.com/flash-frsky-rx-firmware/)
