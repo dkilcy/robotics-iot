@@ -12,7 +12,7 @@
 ### Software
 
 The Pixhawk 4 comes installed with the PX4 firmware and uses QGroundControl
-<p>
+
 - [QGC - QGroundControl](http://qgroundcontrol.com/)
   
 ### Shopping List
