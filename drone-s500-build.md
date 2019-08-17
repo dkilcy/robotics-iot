@@ -1,4 +1,4 @@
-# drone-s500
+# Drone S500 Build
 
 ### Shopping List
 
@@ -8,6 +8,8 @@
 | - | - |
 | [FrSky Taranis X9D Plus SE 2019 Transmitters 24 Channels with para Wireless Trainer Function (Midnight Blue)](https://www.amazon.com/gp/product/B07VVJPL5B) | $356.99 |
 | [7.4V 3000mAh 8C Rechargeable 2S Lipo Battery for Frsky Taranis X9D Plus Radiolink Transmitter ](https://www.amazon.com/gp/product/B07MW2P71V) | $19.99 |
+ 
+ Total: $376.98
  
  #### Drone
  
@@ -25,6 +27,8 @@
 | [XT60 Connectors Female Male - Easy Solder Functional Wire Cover for DIY Custom Lipo Battery RC Car 3D Printer (20 Pack)](https://www.amazon.com/gp/product/B07CWF8CRX/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1) | $13.99 | 
 | [Hobbypower GF Shock Absorber Board Anti-Vibration for APM2.6 APM2.8 Pixhawk PX4 Flight Controller](https://www.amazon.com/gp/product/B01MQGPOFQ/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1) | $7.99 |
 | [FrSky Yaapu Telemetry Converter Cable Pixhawk to Horus X10S X12S Taranis X9DP QX7/X7S Smart Port Receiver X8R X4R XSR RS8R ](https://www.amazon.com/gp/product/B07KJFWTCB) | $14.90 |
+
+Total: $326.56
 
 ### Software
 
