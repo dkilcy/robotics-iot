@@ -31,5 +31,9 @@ This build is using the FrSky R9 receiver which operates at the 900 MHz range.  
 
 Total: $517.33 + $48.75 for transmitter module is $566.08
 
-### References:
+### References
+
+- [PixHawk 4 with Ardupilot and Mission Planner](https://www.youtube.com/watch?v=mEECLCmXEXg&list=PLYsWjANuAm4r4idFZY24pP6s1K6ABMU0p)
+
+
 
