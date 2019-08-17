@@ -2,7 +2,7 @@
 
 #### Highlights:
 
-- Pixhawk PX4 2.4.8 Flight Controller
+- [Pixhawk 1 Flight Controller](https://github.com/ArduPilot/ardupilot/tree/master/libraries/AP_HAL_ChibiOS/hwdef/Pixhawk1)
 - Frequency: 2.4GHz
 
 ### Shopping List
