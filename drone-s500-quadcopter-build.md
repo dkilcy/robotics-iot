@@ -6,6 +6,10 @@
 - [FrSky X8R Receiver](https://www.frsky-rc.com/product/x8r/)
 - Operating Frequency: 2.4GHz
 
+### Software
+
+- [Ardupilot Mission Planner](http://ardupilot.org/planner/)  [Download](http://firmware.ardupilot.org/Tools/MissionPlanner/)
+
 ### Shopping List
  
 | Component | Price |
