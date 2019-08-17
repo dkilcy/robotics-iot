@@ -19,8 +19,8 @@ Total: $443.01
 
 ## Drone Build Projects
 
-1. [S500 Quadcopter Build](/drone-s500-quadcopter-build.md)
-2. [Tarot S680PRO Hexacopter Build](/drone-s680-hexacopter-build.md)
+1. [S500 Quadcopter Build](/drone-s500-quadcopter-build.md) with Pixhawk 1 FC and FrSky X8R Receiver @ 2.4 GHz
+2. [Tarot S680PRO Hexacopter Build](/drone-s680-hexacopter-build.md) with Pixhawk 4 FC and FrSky R9 Receiver @ 900 MHz
 
 ### References
 
