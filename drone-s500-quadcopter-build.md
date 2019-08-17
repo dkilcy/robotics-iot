@@ -1,4 +1,4 @@
-# Drone S500 Build
+# Drone S500 Quadcopter Build
 
 ### Shopping List
  
