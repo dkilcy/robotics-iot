@@ -8,6 +8,14 @@
 - [FrSky R9 Receiver](https://www.frsky-rc.com/product/r9/)
 - Operating Frequency: 915MHz
 
+
+### Software
+
+- [Q Ground Control]()
+
+- [Ardupilot Mission Planner](http://ardupilot.org/planner/)  [Download](http://firmware.ardupilot.org/Tools/MissionPlanner/)
+- Pixhawk 4 Firmware: [Download](http://firmware.ardupilot.org/Copter/latest/Pixhawk4/)
+
 ### Shopping List
 
 This build is using the FrSky R9 receiver which operates at the 900 MHz range.  This requires using the [FrSky R9M Transmitter Module](https://alofthobbies.com/frsky-r9m-transmitter-module.html) on the Taranis X9D transmitter. ($48.75 on 08/11/2019)
