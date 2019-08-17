@@ -34,3 +34,4 @@ Total: $394.88
 
 - [Building your own quadcopter! (S500 Frame + APM 2.8)](https://www.youtube.com/watch?v=WWoDdBTV67Q)
 - [Introduction to PixHawk Flight Controller](https://www.youtube.com/playlist?list=PLYsWjANuAm4r4idFZY24pP6s1K6ABMU0p)
+- [Flash Frsky Receiver Firmware](https://oscarliang.com/flash-frsky-rx-firmware/)
