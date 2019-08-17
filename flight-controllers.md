@@ -26,13 +26,15 @@
 | - | - |
 | [Vector Flight Controller by Eagle Tree](https://www.amazon.com/Vector-Flight-Controller-Deans-Connectors/dp/B00NU8CTEY?tag=skilledflyer17-20) | Autonomous |
 | [RNRC Seriously Dodo Flight Controller Rev 3b](https://www.amazon.com/gp/product/B01HDNAI2Q/?tag=skilledflyer17-20) | Racing |
-| [Pixhawk 4](https://www.amazon.com/gp/product/B07CHQ7SZ4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) | Autonomous |
+| [Pixhawk 4](https://www.amazon.com/gp/product/B07K8RVZ1L/) | Autonomous |
+| [USmile Matek Systems F405-STD Flight Controller](https://www.amazon.com/gp/product/B07792S4VH?tag=skilledflyer17-20) | Simple | [FuriousFPV FORTINI Flight Controller](https://www.amazon.com/gp/product/B07792S4VH?tag=skilledflyer17-20) | Mini |
+| [FOXEER FALCORC F405 AIO Flight Controller](https://www.amazon.com/FOXEER-FALCORC-Controller-Distribution-BetaFlight/dp/B07FMZ14TG?tag=skilledflyer17-20) | Multicopter |
+| [FPVDrone Naze32 Rev 6 Flight Controller](https://www.amazon.com/FPVDrone-Naze32-Flight-Controller-Quadcopter/dp/B07F76FQ6Y?tag=skilledflyer17-20) | FPV |
 
 ### 2017
 
 | FC | Notes |
 | - | - |
-| [Pixhawk 4](https://www.amazon.com/gp/product/B07K8RVZ1L/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) | Autonomous |
 
 ### Older
 
