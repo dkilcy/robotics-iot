@@ -30,8 +30,9 @@
 
 Total: $394.88
 
-### YouTube References
+### References
 
+- [Pixhawk Wiring Quick Start](http://ardupilot.org/copter/docs/common-pixhawk-wiring-and-quick-start.html)
 - [Building your own quadcopter! (S500 Frame + APM 2.8)](https://www.youtube.com/watch?v=WWoDdBTV67Q)
-- [Introduction to PixHawk Flight Controller](https://www.youtube.com/playlist?list=PLYsWjANuAm4r4idFZY24pP6s1K6ABMU0p)
+- [Painless360 - Introduction to PixHawk Flight Controller](https://www.youtube.com/playlist?list=PLYsWjANuAm4r4idFZY24pP6s1K6ABMU0p)
 - [Flash Frsky Receiver Firmware](https://oscarliang.com/flash-frsky-rx-firmware/)
