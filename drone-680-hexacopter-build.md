@@ -27,8 +27,12 @@ This build is using the FrSky R9 receiver which operates at the 900 MHz range.  
 | [HolyBro PM07 Power Management PM Module w/ 5V UBEC Output for Pixhawk 4 PX4 Flight Controller ](https://www.amazon.com/gp/product/B07SSMM4TY) | $52.50 | 08/14/2019 |
 | [18 PCS GH1.25 Cables Wire for Pixhawk2 Pixhawk 4 Pixracer PXFmini Edge CUAV V5 ](https://www.amazon.com/gp/product/B07PLPT2Z6) | $11.90 | 08/15/2019 |
 | [Hobbypower TL65B44 Retractable Landing Skid Gear for Tarot FY650 FY680 FY690 Multicopter ](https://www.amazon.com/gp/product/B0142GYATY/) | $42.99 | 08/14/2019 |
+| [6PCS ARRIS 2-6S 30AMP 30A SimonK firmware OPT Brushless ESC for RC Quad Multicopter](https://www.amazon.com/gp/product/B00UL4LIM4) | $69.98 | 08/17/2019 |
+| [Tarot 4006 / 620KV Multiaxial Brushless Motor TL68P02 for RC DIY Qyadcopters Multicopters Drone (6pcs)](https://www.amazon.com/gp/product/B07SPYQVP7) | $170.89 | 08/17/2019 |
+| [Tarot 1 Pair High Quality Carbon Fiber 1355 1355R Prop Propeller CW / CCW TL2829 Black for Multicopter](https://www.amazon.com/gp/product/B00WEDIG0W) | $16.99 | 08/17/2019 |
 
-Total: $517.33 + $48.75 for transmitter module is $566.08
+
+Total: $775.19 + $48.75 for transmitter module is $823.94
 
 ##### Using Ardupilot Firmware with Pixhawk 4
 
