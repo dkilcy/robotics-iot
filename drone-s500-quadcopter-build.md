@@ -1,5 +1,10 @@
 # Drone S500 Quadcopter Build
 
+#### Highlights:
+
+- Pixhawk PX4 2.4.8 Flight Controller
+- Frequency: 2.4GHz
+
 ### Shopping List
  
 | Component | Price |
