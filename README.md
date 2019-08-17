@@ -9,3 +9,7 @@
  
  Total: $376.98
  
+
+### References
+
+- https://www.frsky-rc.com/product/taranis-x9d-plus-2019/
