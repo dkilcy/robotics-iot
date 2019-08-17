@@ -24,6 +24,11 @@ Total: $66.03
 - [Mission Planner](http://ardupilot.org/planner/)
 - [Mission Planner Download](http://firmware.ardupilot.org/Tools/MissionPlanner/)
 
+## Drone Builds
+
+1. [S500 Quadcopter Build](https://github.com/dkilcy/drone-builds/blob/master/drone-s500-quadcopter-build.md)
+2. 
+
 ### References
 
 - https://www.frsky-rc.com/product/taranis-x9d-plus-2019/
