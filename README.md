@@ -15,8 +15,7 @@ Total: $443.01
 
 ### Software
 
-- [Ardupilot Mission Planner](http://ardupilot.org/planner/)
-- [Download](http://firmware.ardupilot.org/Tools/MissionPlanner/)
+- [Ardupilot Mission Planner](http://ardupilot.org/planner/)  [Download](http://firmware.ardupilot.org/Tools/MissionPlanner/)
 
 ## Drone Build Projects
 
