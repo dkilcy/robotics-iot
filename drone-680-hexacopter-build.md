@@ -5,7 +5,8 @@
 #### Highlights:
 
 - [Pixhawk 4 Flight Controller](https://github.com/ArduPilot/ardupilot/tree/master/libraries/AP_HAL_ChibiOS/hwdef/Pixhawk4)
-- Operating Frequency: 900MHz
+- [FrSky R9 Receiver](https://www.frsky-rc.com/product/r9/)
+- Operating Frequency: 915MHz
 
 ### Shopping List
 
@@ -24,4 +25,3 @@ Total: $517.33 + $48.75 for transmitter module is $566.08
 
 ### References:
 
-- https://www.frsky-rc.com/product/r9/
