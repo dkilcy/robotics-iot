@@ -1,8 +1,10 @@
 # Drone Builds
 
-## Supporting Equipment
+## Transmitter and Supporting Equipment
 
-### Hardware
+https://www.frsky-rc.com/product/taranis-x9d-plus-2019/
+
+### Shopping List
 
 | Component | Price | Date |
 | - | - | - | 
@@ -13,10 +15,6 @@
 
 Total: $443.01
 
-### Software
-
-- [Ardupilot Mission Planner](http://ardupilot.org/planner/)  [Download](http://firmware.ardupilot.org/Tools/MissionPlanner/)
-
 ## Drone Build Projects
 
 1. [S500 Quadcopter Build](/drone-s500-quadcopter-build.md) with Pixhawk 1 FC and FrSky X8R Receiver @ 2.4 GHz
@@ -24,4 +22,5 @@ Total: $443.01
 
 ### References
 
-- https://www.frsky-rc.com/product/taranis-x9d-plus-2019/
+
+- [Painless360 Channel](https://www.youtube.com/user/Painless360)
