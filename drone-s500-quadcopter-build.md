@@ -29,5 +29,4 @@ Total: $394.88
 ### YouTube References
 
 - [Building your own quadcopter! (S500 Frame + APM 2.8)](https://www.youtube.com/watch?v=WWoDdBTV67Q)
-- [Introduction to PixHawk Flight Controller)[https://www.youtube.com/playlist?list=PLYsWjANuAm4r4idFZY24pP6s1K6ABMU0p]
-
+- [Introduction to PixHawk Flight Controller](https://www.youtube.com/playlist?list=PLYsWjANuAm4r4idFZY24pP6s1K6ABMU0p)
