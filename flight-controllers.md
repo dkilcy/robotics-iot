@@ -15,7 +15,7 @@
 | [DJI A3 Flight Controller](https://amzn.to/2BEJ4Lu) | Cinema |
 | [DJI N3 Quadcopter Flight Controller](https://amzn.to/2w66WCC) | Cinema |
 | [DJI Naza-M Lite Flight Controller](http://amzn.to/2umAoSV) | General |
-| [DJI Naze32 Rev 6 Flight Controller](http://amzn.to/2eEdNgC) | Cinema |
+| [Naze32 Rev 6 Flight Controller](http://amzn.to/2eEdNgC) | Cinema |
 | [RJX Raceflight F4 Flight Controller](http://amzn.to/2vwpGcA) | Sports/Racing |
 | [Crazepony F3 Flight Controller](http://amzn.to/2gSZTbp) | Sports/Racing|
 | [KISS FC Controller by Flydunio](http://amzn.to/2gT2XUN) | Sports/Racing/Freestyle Mini Quad |
@@ -38,6 +38,8 @@
 
 ### Older
 
+| FC | Notes |
+| - | - |
 | [MultiWii RC](https://github.com/multiwii) | Autonomous |
 
 ### References
