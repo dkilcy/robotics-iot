@@ -15,13 +15,13 @@ Total: $443.01
 
 ### Software
 
-- [Mission Planner](http://ardupilot.org/planner/)
-- [Mission Planner Download](http://firmware.ardupilot.org/Tools/MissionPlanner/)
+- [Ardupilot Mission Planner](http://ardupilot.org/planner/)
+- [Download](http://firmware.ardupilot.org/Tools/MissionPlanner/)
 
 ## Drone Build Projects
 
-1. [S500 Quadcopter Build](https://github.com/dkilcy/drone-builds/blob/master/drone-s500-quadcopter-build.md)
-2. 
+1. [S500 Quadcopter Build](#drone-s500-quadcopter-build.md)
+2. [S680 Hexacopter Build](#drone-s680-hexacopter-build.md)
 
 ### References
 
