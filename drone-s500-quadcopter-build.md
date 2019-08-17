@@ -3,6 +3,7 @@
 #### Highlights:
 
 - [Pixhawk 1 Flight Controller](https://github.com/ArduPilot/ardupilot/tree/master/libraries/AP_HAL_ChibiOS/hwdef/Pixhawk1)
+- [FrSky X8R Receiver](https://www.frsky-rc.com/product/x8r/)
 - Frequency: 2.4GHz
 
 ### Shopping List
@@ -27,5 +28,4 @@ Total: $394.88
 
 ### References
 
-- https://www.frsky-rc.com/product/x8r/
 
