@@ -4,7 +4,7 @@
 
 - [Pixhawk 1 Flight Controller](https://github.com/ArduPilot/ardupilot/tree/master/libraries/AP_HAL_ChibiOS/hwdef/Pixhawk1)
 - [FrSky X8R Receiver](https://www.frsky-rc.com/product/x8r/)
-- Frequency: 2.4GHz
+- Operating Frequency: 2.4GHz
 
 ### Shopping List
  
@@ -26,6 +26,8 @@
 
 Total: $394.88
 
-### References
+### YouTube References
 
+- [Building your own quadcopter! (S500 Frame + APM 2.8)](https://www.youtube.com/watch?v=WWoDdBTV67Q)
+- [Introduction to PixHawk Flight Controller)[https://www.youtube.com/playlist?list=PLYsWjANuAm4r4idFZY24pP6s1K6ABMU0p]
 
