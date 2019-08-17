@@ -11,11 +11,10 @@
 
 ### Software
 
-- [Q Ground Control]()
-
-- [Ardupilot Mission Planner](http://ardupilot.org/planner/)  [Download](http://firmware.ardupilot.org/Tools/MissionPlanner/)
-- Pixhawk 4 Firmware: [Download](http://firmware.ardupilot.org/Copter/latest/Pixhawk4/)
-
+The Pixhawk 4 comes installed with the PX4 firmware and uses QGroundControl
+<p>
+- [QGC - QGroundControl](http://qgroundcontrol.com/)
+  
 ### Shopping List
 
 This build is using the FrSky R9 receiver which operates at the 900 MHz range.  This requires using the [FrSky R9M Transmitter Module](https://alofthobbies.com/frsky-r9m-transmitter-module.html) on the Taranis X9D transmitter. ($48.75 on 08/11/2019)
@@ -31,8 +30,10 @@ This build is using the FrSky R9 receiver which operates at the 900 MHz range.  
 
 Total: $517.33 + $48.75 for transmitter module is $566.08
 
-### References
+##### Using Ardupilot Firmware with Pixhawk 4
 
+- Ardupilot Pixhawk 4 Firmware: [Download](http://firmware.ardupilot.org/Copter/latest/Pixhawk4/)
+- [Ardupilot Mission Planner](http://ardupilot.org/planner/)  [[Download]](http://firmware.ardupilot.org/Tools/MissionPlanner/)
 - [PixHawk 4 with Ardupilot and Mission Planner](https://www.youtube.com/watch?v=mEECLCmXEXg&list=PLYsWjANuAm4r4idFZY24pP6s1K6ABMU0p)
 
 
