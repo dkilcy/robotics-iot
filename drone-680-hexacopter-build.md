@@ -30,9 +30,11 @@ This build is using the FrSky R9 receiver which operates at the 900 MHz range.  
 | [6PCS ARRIS 2-6S 30AMP 30A SimonK firmware OPT Brushless ESC for RC Quad Multicopter](https://www.amazon.com/gp/product/B00UL4LIM4) | $69.98 | 08/17/2019 |
 | [Tarot 4006 / 620KV Multiaxial Brushless Motor TL68P02 for RC DIY Qyadcopters Multicopters Drone (6pcs)](https://www.amazon.com/gp/product/B07SPYQVP7) | $170.89 | 08/17/2019 |
 | [Tarot 1 Pair High Quality Carbon Fiber 1355 1355R Prop Propeller CW / CCW TL2829 Black for Multicopter](https://www.amazon.com/gp/product/B00WEDIG0W) | $16.99 | 08/17/2019 |
+| [Tattu LiPo Battery Pack 16000mAh 15C 4S 14.8V for OnyxStar FOX-C8-HD Gryphon X8 and Other Professional UAVs ](https://www.amazon.com/gp/product/B013I9QC3I/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) | $231.67 | 08/17/2019 |
+| [Tarot TL2851 680PRO Carbon Fiber Pattern Canopy Hood Head Cover](https://www.amazon.com/gp/product/B016MQAL2M/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) | $27.99 | 08/17/2019 |
 
 
-Total: $775.19 + $48.75 for transmitter module is $823.94
+Total: $1034.85 + $48.75 for transmitter module is $1083.60
 
 ##### Using Ardupilot Firmware with Pixhawk 4
 
