@@ -14,7 +14,8 @@
 The Pixhawk 4 comes installed with the PX4 firmware and uses QGroundControl
 
 - [QGC - QGroundControl](http://qgroundcontrol.com/)
-  
+- [Download](https://docs.qgroundcontrol.com/en/getting_started/download_and_install.html)
+
 ### Shopping List
 
 This build is using the FrSky R9 receiver which operates at the 900 MHz range.  This requires using the [FrSky R9M Transmitter Module](https://alofthobbies.com/frsky-r9m-transmitter-module.html) on the Taranis X9D transmitter. ($48.75 on 08/11/2019)
