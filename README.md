@@ -26,7 +26,7 @@ Total: $443.01
 - [https://oscarliang.com/](https://oscarliang.com/)
 - [RC TX RX Protocols Explained: PWM, PPM, SBUS, DSM2, DSMX, SUMD](https://oscarliang.com/pwm-ppm-sbus-dsm2-dsmx-sumd-difference/)
 - [Waterproofing Drone electronics - Conformal Coating Tutorial](https://oscarliang.com/waterproofing-drone-electronics/)
-
+- [Basic Introduction to Multicopters](https://www.rcgroups.com/forums/showthread.php?2429327-Basic-Introduction-to-Multicopters)
 #### DIY Drone Kits Complete
 
 - [ELEV-8 v3 Quadcopter Starter Pack](https://www.parallax.com/product/80335)
