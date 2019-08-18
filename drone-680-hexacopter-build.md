@@ -44,5 +44,5 @@ Total: $923.13 + $48.75 for transmitter module is $971.88
 
 ### References
 
-- [Tarot 680PRO Hexacopter *****Owner Thread*****](https://www.rcgroups.com/forums/showthread.php?2063435-Tarot-680PRO-Hexacopter-%2A%2A%2A%2A%2AOwner-Thread%2A%2A%2A%2A%2A/page364)
+- [rcgroups.com: Tarot 680PRO Hexacopter *****Owner Thread*****](https://www.rcgroups.com/forums/showthread.php?2063435-Tarot-680PRO-Hexacopter-%2A%2A%2A%2A%2AOwner-Thread%2A%2A%2A%2A%2A/page364)
 
