@@ -1,5 +1,5 @@
 
-# Drone 680 Hexacopter Build
+# Drone S680 Hexacopter Build
 
 
 #### Highlights:
