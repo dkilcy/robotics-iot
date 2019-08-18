@@ -42,5 +42,7 @@ Total: $923.13 + $48.75 for transmitter module is $971.88
 - [Ardupilot Mission Planner](http://ardupilot.org/planner/)  [[Download]](http://firmware.ardupilot.org/Tools/MissionPlanner/)
 - [PixHawk 4 with Ardupilot and Mission Planner](https://www.youtube.com/watch?v=mEECLCmXEXg&list=PLYsWjANuAm4r4idFZY24pP6s1K6ABMU0p)
 
+### References
 
+- [Tarot 680PRO Hexacopter *****Owner Thread*****](https://www.rcgroups.com/forums/showthread.php?2063435-Tarot-680PRO-Hexacopter-%2A%2A%2A%2A%2AOwner-Thread%2A%2A%2A%2A%2A/page364)
 
