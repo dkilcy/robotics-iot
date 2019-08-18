@@ -7,7 +7,7 @@
 - Autonomous
 - Sports
 
-### 2019
+### 2018/2019
 
 | FC | Notes |
 | - | - |
@@ -19,22 +19,12 @@
 | [RJX Raceflight F4 Flight Controller](http://amzn.to/2vwpGcA) | Sports/Racing |
 | [Crazepony F3 Flight Controller](http://amzn.to/2gSZTbp) | Sports/Racing|
 | [KISS FC Controller by Flydunio](http://amzn.to/2gT2XUN) | Sports/Racing/Freestyle Mini Quad |
-
-### 2018
-
-| FC | Notes |
-| - | - |
 | [Vector Flight Controller by Eagle Tree](https://www.amazon.com/Vector-Flight-Controller-Deans-Connectors/dp/B00NU8CTEY?tag=skilledflyer17-20) | Autonomous |
 | [RNRC Seriously Dodo Flight Controller Rev 3b](https://www.amazon.com/gp/product/B01HDNAI2Q/?tag=skilledflyer17-20) | Racing |
 | [Pixhawk 4](https://www.amazon.com/gp/product/B07K8RVZ1L/) | Autonomous |
 | [USmile Matek Systems F405-STD Flight Controller](https://www.amazon.com/gp/product/B07792S4VH?tag=skilledflyer17-20) | Simple | [FuriousFPV FORTINI Flight Controller](https://www.amazon.com/gp/product/B07792S4VH?tag=skilledflyer17-20) | Mini |
 | [FOXEER FALCORC F405 AIO Flight Controller](https://www.amazon.com/FOXEER-FALCORC-Controller-Distribution-BetaFlight/dp/B07FMZ14TG?tag=skilledflyer17-20) | Multicopter |
 | [FPVDrone Naze32 Rev 6 Flight Controller](https://www.amazon.com/FPVDrone-Naze32-Flight-Controller-Quadcopter/dp/B07F76FQ6Y?tag=skilledflyer17-20) | FPV |
-
-### 2017
-
-| FC | Notes |
-| - | - |
 
 ### Older
 
@@ -45,3 +35,4 @@
 ### References
 
 - [http://bestdronesforme.com/best-drone-flight-controllers-quadcopters-board/](http://bestdronesforme.com/best-drone-flight-controllers-quadcopters-board/)
+- [The best options, drone flight controller, for quadcopter as well.](https://skilledflyer.com/best-drone-flight-controller/)
