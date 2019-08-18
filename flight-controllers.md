@@ -11,6 +11,7 @@
 
 | FC | Notes |
 | - | - |
+| [Emlid Navio2](https://store.emlid.com/product/navio2/) | Autonomous / RPi Hat |
 | [DJI Naza-M V2 Flight Controller](http://amzn.to/2eE8Moe) | Cinema, Sports |
 | [DJI A3 Flight Controller](https://amzn.to/2BEJ4Lu) | Cinema |
 | [DJI N3 Quadcopter Flight Controller](https://amzn.to/2w66WCC) | Cinema |
