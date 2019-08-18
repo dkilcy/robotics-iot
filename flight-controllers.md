@@ -34,5 +34,5 @@
 
 ### References
 
-- [http://bestdronesforme.com/best-drone-flight-controllers-quadcopters-board/](http://bestdronesforme.com/best-drone-flight-controllers-quadcopters-board/)
+- [8 Best Drone Flight Controllers for Your Quadcopters in 2019](http://bestdronesforme.com/best-drone-flight-controllers-quadcopters-board/)
 - [The best options, drone flight controller, for quadcopter as well.](https://skilledflyer.com/best-drone-flight-controller/)
