@@ -22,8 +22,11 @@ Total: $443.01
 
 ### References
 
-
 - [Painless360 Channel](https://www.youtube.com/user/Painless360)
 - [https://oscarliang.com/](https://oscarliang.com/)
 - [RC TX RX Protocols Explained: PWM, PPM, SBUS, DSM2, DSMX, SUMD](https://oscarliang.com/pwm-ppm-sbus-dsm2-dsmx-sumd-difference/)
 - [Waterproofing Drone electronics - Conformal Coating Tutorial](https://oscarliang.com/waterproofing-drone-electronics/)
+
+#### DIY Drone Kits Complete
+
+- [ELEV-8 v3 Quadcopter Starter Pack](https://www.parallax.com/product/80335)
