@@ -1,0 +1,11 @@
+
+# Flash FrSky R9M 2019 Module to R9 ACCESS 
+
+1. Copy FW_R9_ACCESS_v1.1.2 firmware to FIRMWARE directory of SD card
+2. Connect S.Port from Transmitter to Receiver
+3. Flash S.Port device
+
+# Bind R9M 2019 module to R9 Receiver 
+
+1. Register
+2. Bind
