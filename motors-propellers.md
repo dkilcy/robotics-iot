@@ -55,10 +55,10 @@ Frame Size => Prop Size => Motor Size
 
 **Tarot frames**
 
-| Frame | Prop Size |	Motor Size |	KV | Lipo |
-| - | - | - | - | - |
-| ZD550 | 1238/1245/1255 | 3508 | 700KV | 4S 5200-8000MAH | 
-| ZD680 | 1555/1655 | 3508,4110 | 380,340 | 6S 5200-100000MAH |
+| Frame | Prop Size |	Motor Size |	KV | Lipo | ESC |
+| - | - | - | - | - | - |
+| ZD550 | 1238/1245/1255 | 3508 | 700KV | 4S 5200-8000MAH | 30-40A |
+| ZD680 | 1555/1655 | 3508,4110 | 380,340 | 6S 5200-100000MAH | 30-40A |
 
 ### Drone Motor and ESC Selection Guide
 
