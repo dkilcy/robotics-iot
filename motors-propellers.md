@@ -42,16 +42,23 @@ Bigger stator size and higher KV means more current draw.
 
 Frame Size => Prop Size => Motor Size
 
-**Quad with 4S Lipo Battery**
+**Quad with 4S Lipo Battery (from quadquestions)**
 
-| Frame Size | Prop Size |	Motor Size |	KV |
-| - | - | -| - |
+|  Frame Size | Prop Size |	Motor Size |	KV |
+| - | - | - | - |
 | 150mm or smaller |	3″ or smaller | 1105 -1306 or smaller |	3000KV and higher |
 | 180mm |	4″ |	1806, 2204 |	2600KV – 3000KV | 
 | 210mm |	5″ |	2205-2208, 2305-2306 |	2300KV-2600KV |
 | 250mm |	6″ |	2206-2208, 2306 |	2000KV-2300KV |
 | 350mm |	7″ |	2506-2508 |	1200KV-1600KV |
 | 450mm |	8″, 9″, 10″ or larger |	26XX and larger |	1200KV and lower |
+
+**Tarot frames**
+
+| Frame | Prop Size |	Motor Size |	KV | Lipo |
+| - | - | - | - | - |
+| ZD550 | 1238/1245/1255 | 3508 | 700KV | 4S 5200-8000MAH | 
+| ZD680 | 1555/1655 | 3508,4110 | 380,340 | 6S 5200-100000MAH |
 
 ### Drone Motor and ESC Selection Guide
 
@@ -67,3 +74,4 @@ Frame Size => Prop Size => Motor Size
 
 - [https://oscarliang.com/quadcopter-motor-propeller/](https://oscarliang.com/quadcopter-motor-propeller/)
 - [https://quadquestions.com/blog/2017/02/22/choose-right-size-motors-drone/](https://quadquestions.com/blog/2017/02/22/choose-right-size-motors-drone/)
+- [https://www.dronetrest.com/t/how-to-choose-the-right-motor-for-your-multicopter-drone/568](https://www.dronetrest.com/t/how-to-choose-the-right-motor-for-your-multicopter-drone/568)
