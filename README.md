@@ -1,5 +1,9 @@
 # Drone Builds
 
+### eCalc
+
+Quadcopter: [https://ecalc.ch/xcoptercalc.php](https://ecalc.ch/xcoptercalc.php)
+
 ### References
 
 - [https://oscarliang.com/](https://oscarliang.com/)
