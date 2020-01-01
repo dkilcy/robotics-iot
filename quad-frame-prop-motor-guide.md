@@ -1,14 +1,12 @@
 
-## Motors and Propellers
-
-### Drone Motor and ESC Selection Guide
+## Quadcopter Frame/Propeller/Motor Guide
 
 1. Choose Frame Size
 2. Determine prop diameter based on frame size
 3. Determine motor stator based on prop size
 4. Size ESC to handle amps draw at full throttle by motor/prop combo
 
-#### Generic Guidlines for Quadcopter
+#### Generic Baseline for Quadcopter
 
 |  Frame Size | Prop Size |	Motor Size |	KV |
 | - | - | - | - |
