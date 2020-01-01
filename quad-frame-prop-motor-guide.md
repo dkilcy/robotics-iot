@@ -81,6 +81,7 @@ Frame Size => Prop Size => Motor Size
 Vehicle weight: 1500g (3.3lbs)  
 
 [Racerstart DX3508](https://www.amazon.com/dp/B07B8FLJ14/?coliid=I3JAJLD3BIXDHN&colid=34H1UX4F57WK0&psc=1&ref_=lv_ov_lig_dp_it)  
+
 | Motor | Voltage | Prop | Load Current (A) | Pull (g) | Power (W) |  Efficency (g/W) | Weight (g) |
 | - | - | - | - | - | - | - | - |
 | DX3508-380KV | 22.2V | 12x3.8 | 10.6 | 1560 | 235 | 6.6 | 98 |
