@@ -11,7 +11,7 @@
 - Total weight - to determine minimum amount of thrust required for motor/propeller combination to produce
 - Frame size - to determine maximum propeller size
 
-Maximum thrust produced by all motors must be at least double of the total weight of the vehicle.
+Maximum thrust (in grams) produced by all motors must be at least double the total weight of the vehicle.
 - Recommended 3:1 or 4:1 ratio for regular quads
 - Higher for racing drones (5:1 up to 13:1)
 
@@ -69,6 +69,14 @@ Frame Size => Prop Size => Motor Size
 5. Search for motor 'thrust test <name of motor>'
 6. Size ESC to handle amps draw at full throttle by motor/prop combo
 
+### Example Vehicle Performance
+
+| Model | Voltage | Prop | Load Current (A) | Pull (g) | Power (W) |  Efficency (g/W) | Weight (g) |
+| - | - | - | - | - | - | - | - |
+| DX3508-580KV | 14.8V | 12x3.8 | 13.5 | 1360 | 200 | 6.8 | 98 |
+
+Vehicle weight: 1500g (3.3lbs)  
+Thrust-to-weight ratio: (1360*4=5440)/1500 = 3.62 
 
 ### References
 
