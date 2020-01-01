@@ -1,15 +1,5 @@
 # Drone S500 Quadcopter Build
 
-#### Highlights:
-
-- [Pixhawk 1 Flight Controller](https://github.com/ArduPilot/ardupilot/tree/master/libraries/AP_HAL_ChibiOS/hwdef/Pixhawk1)
-- [FrSky X8R Receiver](https://www.frsky-rc.com/product/x8r/)
-- Operating Frequency: 2.4GHz
-
-### Software
-
-- [Ardupilot Mission Planner](http://ardupilot.org/planner/)  [Download](http://firmware.ardupilot.org/Tools/MissionPlanner/)
-
 ### Shopping List
  
 | Component | Price |
@@ -29,11 +19,3 @@
 | [FrSky Yaapu Telemetry Converter Cable Pixhawk to Horus X10S X12S Taranis X9DP QX7/X7S Smart Port Receiver X8R X4R XSR RS8R ](https://www.amazon.com/gp/product/B07KJFWTCB) | $14.90 |
 
 Total: $394.88
-
-### References
-
-- [Pixhawk Wiring Quick Start](http://ardupilot.org/copter/docs/common-pixhawk-wiring-and-quick-start.html)
-- [Building your own quadcopter! (S500 Frame + APM 2.8)](https://www.youtube.com/watch?v=WWoDdBTV67Q)
-- [Painless360 - Introduction to PixHawk Flight Controller](https://www.youtube.com/playlist?list=PLYsWjANuAm4r4idFZY24pP6s1K6ABMU0p)
-- [How to setup 16 channels on FrSky X8R using SBUS](https://www.youtube.com/watch?v=jUkutJrzXFI)
-- [Flash Frsky Receiver Firmware](https://oscarliang.com/flash-frsky-rx-firmware/)
