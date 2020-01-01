@@ -67,6 +67,8 @@ Guideline for how many RPM a motor give up per volt.
 
 ### ESC
 
+Pair ESC greater than max amp draw of motor
+
 ## How to decide motor size?
 
 Generally speaking, heavier quad usually pair with medium to low KV motors, lighter quad usually use high KV motors.  
@@ -80,9 +82,14 @@ Vehicle weight: 1500g (3.3lbs)
 
 | Motor | Voltage | Prop | Load Current (A) | Pull (g) | Power (W) |  Efficency (g/W) | Weight (g) |
 | - | - | - | - | - | - | - | - |
+| DX3508-380KV | 22.2V | 12x3.8 | 10.6 | 1560 | 235 | 6.6 | 98 |
+| DX3508-380KV | 22.2V | 15x5 | 13.8 | 1880 | 306 | 6.1 | 98 |
 | DX3508-580KV | 14.8V | 12x3.8 | 13.5 | 1360 | 200 | 6.8 | 98 |
+| DX3508-580KV | 14.8V | 15x5 | 16.3 | 1600 | 241 | 6.6 | 98 |
+| DX3508-700KV | 14.8V | 12x3.8 | 22.6 | 1700 | 334 | 5.1 | 98 |
+| DX3508-700KV | 14.8V | 15x5 | 21.8 | 17800 | 323 | 5.5 | 98 |
 
-Thrust-to-weight ratio: (1360*4=5440)/1500 = 3.62 
+Thrust-to-weight ratio for 1360g of thrust and 1500g of weight: (1360*4=5440)/1500 = 3.62 
 
 ### References
 
