@@ -73,15 +73,11 @@ Pair ESC greater than max amp draw of motor
 
 Frame Size => Prop Size => Motor Size
 
+"Generally speaking, heavier quad usually pair with medium to low KV motors, lighter quad usually use high KV motors.  
+Bigger stator size and higher KV means more current draw.  "
 
-```
-Generally speaking, heavier quad usually pair with medium to low KV motors, lighter quad usually use high KV motors.  
-Bigger stator size and higher KV means more current draw.  
-```
-
-```
-Propellers: Manueverability of a quad is dependent on how quickly you can change the thrust (how fast you can change the RPM 
-of the props).
+"**Propellers:** Manueverability of a quad is dependent on how quickly you can change the thrust (how fast you can change the RPM 
+of the props).  
 
 A smaller prop is easier to speed up and slow down whereas a large prop takes a very long time to change speeds. Beyond a certain size you essentially are unable to fly. This is why you see hexacoptors and octocopters that use more, smaller props instead of giant quadrotors.
 
@@ -89,13 +85,12 @@ On the flipside, propeller efficiency is related to the area of a prop (or radiu
 
 The faster you want to go, the more aggressive a pitch you want. Since quadrotors are generally hovering this means you want the lowest pitch available. If you want to go somewhere fast a higher pitch might be apropriate.
 
-Motors: Generally you just choose a motor that matches the given prop. Having a motor that is too large will be heavy, and a motor that is too small will perform poorly or burn up.
+**Motors:** Generally you just choose a motor that matches the given prop. Having a motor that is too large will be heavy, and a motor that is too small will perform poorly or burn up.
 
 A smaller prop requires a higher RPM motor because they must spin faster to generate equivalent lift.
 
 If you put everything together, an efficient quad will have properly sized, low RPM motors with very large props.
-An acrobatic quad will want smaller, more aggressive props, faster motors, and you might even overvolt the motors for faster response.
-```
+An acrobatic quad will want smaller, more aggressive props, faster motors, and you might even overvolt the motors for faster response."
 
 ### Example Vehicle Performance
 
