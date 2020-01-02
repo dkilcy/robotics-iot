@@ -93,6 +93,10 @@ Vehicle weight: 1500g (3.3lbs)
 
 Thrust-to-weight ratio for 1360g of thrust and 1500g of weight: (1360*4=5440)/1500 = 3.62 
 
+### eCalc
+
+[](https://ecalc.ch/xcoptercalc_mobile.php?ecalc&lang=en&rotornumber=4&config=flat&frame=400&tiltlimit=90&weight=850&calc=auw&elevation=500&airtemp=25&qnh=1013&chargestate=0&s=3&p=1&battdisc=0.85&esc=0&esccont=&escmax=&escri=&escweight=&motor=0&type=-1&cooling=good&gear=1&propeller=0&pconst=1.2&tconst=1.0&diameter=10&pitch=4.7&blades=2)
+
 ### References
 
 - [https://oscarliang.com/quadcopter-motor-propeller/](https://oscarliang.com/quadcopter-motor-propeller/)
