@@ -33,9 +33,32 @@ Take total weight of vehicle and divide by # of rotors.  This is minimum amount 
 
 ### Propeller
 
-From frame manufacturer recommendation 
+Propellers create lift and propulsion.  
 
-Example: 12x4.5 or 1245
+Lift is generated as prop push against the wind.  Lift increases as prop rotates faster.  (Fixed wings rely on airflow above and below wings to generate lift).  
+
+Propulsion is created by varying the rate of rotation of each propeller, the pitch changes.
+
+Properties:
+1. Size
+2. Pitch.  Example: 4.5 pitch means the prop will move forward 3.8 inches in 1 revolution.  
+  - higher pitches produce less torque
+  - higher pitches create more vibration
+
+Example: 12x4.5 or 1245  
+
+Blade Count: 2, 3 or 4 blades.  With 3 and 4, do not need to use longer blades.
+
+**How to determine propeller to use:** from frame manufacturer recommendation 
+
+#### Propeller Orientation
+
+For S500 with Pixhawk, motor orientation:
+```
+                Front
+  (3/D) CW/Pusher   (1/A) CCW/Normal
+  (2/C) CCW/Normal  (4/B) CW/Pusher
+ ```
 
 ### Motors
 
@@ -131,3 +154,7 @@ Thrust-to-weight ratio for 1360g of thrust and 1500g of weight: (1360*4=5440)/15
 - [https://quadquestions.com/blog/2017/02/22/choose-right-size-motors-drone/](https://quadquestions.com/blog/2017/02/22/choose-right-size-motors-drone/)
 - [https://www.dronetrest.com/t/how-to-choose-the-right-motor-for-your-multicopter-drone/568](https://www.dronetrest.com/t/how-to-choose-the-right-motor-for-your-multicopter-drone/568)
 - [https://robotics.stackexchange.com/questions/25/how-to-choose-the-right-propeller-motor-combination-for-a-quadcopter?rq=1](https://robotics.stackexchange.com/questions/25/how-to-choose-the-right-propeller-motor-combination-for-a-quadcopter?rq=1)
+- [https://skilledflyer.com/drone-propellers/](https://skilledflyer.com/drone-propellers/)
+- [https://3dinsider.com/drone-propellers/](https://3dinsider.com/drone-propellers/)
+
+
