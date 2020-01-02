@@ -48,7 +48,8 @@ For Ardupilot, match params with mixer
 | RCMAP_THROTTLE | 3 |
 | RCMAP_YAW | 1 |
 
-| Flight Modes | | 
+| Flight Modes | |
+| - | - |
 | 1 | Stabilize |
 | 2 | | 
 | 3 | |
