@@ -29,6 +29,8 @@
 - Total weight of vehicle - to determine minimum amount of thrust required for motor/propeller combination to produce
 - Frame size - to determine maximum propeller size
 
+Take total weight of vehicle and divide by # of rotors.  This is minimum amount of thrust each motor/prop must make for aircraft to hover @ 50% throttle.
+
 ### Propeller
 
 From frame manufacturer recommendation 
@@ -60,10 +62,13 @@ Common stator sizes for 5" propellers: 2207, 2306, 2307, 2407 (racing)
 
 #### Motor KV
 
-Guideline for how many RPM a motor give up per volt.  
+Constant Velocity - K=RPM, V=Per Volt. How many RPM a motor give up per volt.  Ex: 580KV*14.8V=8352RPM
 
 - Larger props paired with low KV motors
 - Smaller/lighter props paired with high KV motors.
+
+**For racing:**  high RPM for high speed - High KV motor and small diameter prop
+**For heavy-lift/multirotor:**  low RPM for high torque - Low KV motor and large diameter prop
 
 ### ESC
 
