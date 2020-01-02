@@ -37,6 +37,8 @@ Transmitter: Taranis X9D SE 2019.  Mode 2, Default Channel Order: AETR
 | Ch3 | 100 | Thr |
 | Ch4 | 100 | Ail --> Roll |
 
+### Ardupilot Setup
+
 For Ardupilot, match params with mixer
 
 | Ardupilot Params | | 
@@ -45,3 +47,11 @@ For Ardupilot, match params with mixer
 | RCMAP_ROLL | 4 |
 | RCMAP_THROTTLE | 3 |
 | RCMAP_YAW | 1 |
+
+| Flight Modes | | 
+| 1 | Stabilize |
+| 2 | | 
+| 3 | |
+| 4 | Loiter |
+| 5 | |
+| 6 | RTL |
