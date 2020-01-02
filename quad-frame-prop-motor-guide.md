@@ -67,7 +67,7 @@ Constant Velocity - K=RPM, V=Per Volt. How many RPM a motor give up per volt.  E
 - Larger props paired with low KV motors
 - Smaller/lighter props paired with high KV motors.
 
-**For racing:**  high RPM for high speed - High KV motor and small diameter prop
+**For racing:**  high RPM for high speed - High KV motor and small diameter prop  
 **For heavy-lift/multirotor:**  low RPM for high torque - Low KV motor and large diameter prop
 
 ### ESC
