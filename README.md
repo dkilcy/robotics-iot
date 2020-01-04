@@ -9,6 +9,10 @@
   - [Download](https://github.com/betaflight/betaflight-configurator/releases)
 - [QGC - QGroundControl](http://qgroundcontrol.com/)
   - [Download](https://docs.qgroundcontrol.com/en/getting_started/download_and_install.html)
+- OpenTX Companion 
+- TBS Agent-X
+- Yuneec Q500 GUI
+- DJI Assistant 2
 
 ### eCalc
 
