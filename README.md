@@ -7,6 +7,8 @@
   - [Download](https://docs.qgroundcontrol.com/en/getting_started/download_and_install.html)
 - [Ardupilot Mission Planner](http://ardupilot.org/planner/)
   - [Download](http://firmware.ardupilot.org/Tools/MissionPlanner/)
+- [BetaFlight Configurator](https://github.com/betaflight/betaflight-configurator)
+  - [Download](https://github.com/betaflight/betaflight-configurator/releases)
 
 ### eCalc
 
