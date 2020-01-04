@@ -28,5 +28,6 @@ AT&T - disable debug reporting
 All of these commands, except for ATO, may be used on a connected remote radio by replacing ‘AT’ with ‘RT’.
 ```
 
+### References
 
 - [FrSky Telemetry](http://ardupilot.org/copter/docs/common-frsky-telemetry.html)
