@@ -41,6 +41,10 @@ The home page will display the chip temperature and the fan will turn on automat
 
 **Fail safe SET** These two opetions represent FS on or off.  When FS is on, if the RF signal is lost, the receiver will output the range of travel shown below.  If FS is turned off, the receiver will retain the last data received.  I now need to turn off the power control channel.  Now the data for each channel will be displayed.  For example I'm now going to set CH3 current position to the FS mode.  Pressing the **Send F/S Command** button will command the receiver to record the data of all channels.  The control command will now be sent.  After sending the command, the receiver saves the current position of all channels.  When the RF signal is lost, the receiver will output this position data.  
 
+**TX CH Config** button is used to configure each output channel to correspond to the input channel.  The old NB20 required a jumper, but now it can be configured using a touch screen.  It can be configured for any of the output channels.  It is now a SBUS default configuration.  It can be seen from here that the output channel and SBUS channel are one-to-one.  The blue display represents the input signal.  Because SBUS has only 18 channels, channels 19 and 20 use the midpoint signal instead.  If there is a PPM signal now, we can also choose the channel in PPM.  Now lets reconfigure channel 1.  The correspondence will be dispayed at the top.  We chan choose any channel to correspond to CH1.  We can choose channels in PPM or SBUS.  Now we set output channel 1 correponding to input SBUS channel 3.  Now we can see that the output channel 1 is controlled by the throttle.   
+
+**Recver SET** is the receiver setting. 
+
 
 ### References
 
