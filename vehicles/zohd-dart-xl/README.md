@@ -4,7 +4,7 @@
 ### Summary
 
 - Zohd Dart XL Extreme
-- Matek F405 Wing Flight Controller
+- [Matek F405-WING Flight Controller](http://www.mateksys.com/?portfolio=f405-wing)
 - <Receiver>
 - AKK Infinite DVR VTX 25mW/200mW/600mW/1000mW MMCX Transmitter 
 - Runcam Swift 2 600TVL FPV Camera Integrated OSD 2.3mm Lens
@@ -14,8 +14,7 @@
 
 ### Wiring
 
-http://www.mateksys.com/?portfolio=f405-wing#tab-id-3
-
+![Wiring Diagram]()
 
 
 ### References
