@@ -49,6 +49,19 @@ The home page will display the chip temperature and the fan will turn on automat
 
 **System SET** 
 
+- **VIN Alarm-ON** is the input voltage alarm, the voltage exceeding the working range will trigger thea alarm. 
+- **TEMP Alarm-ON** 
+- **SYS Sound=ON** 
+- **Fan control=AUTO**
+
+**IDLE control=NEVER .. Control CH=SBUS CH19** control the system standby, stop the RF signal transmission.  "When the conditions is met, the system will stop transmitting RF signals!".  
+
+- **PPM1 signal loss** Trigger standby when PPM1 signal is lost. 
+- **SBUS signal lost** remote control os turned off and the receiver appears in FS state.  If you turn on the remote now, the NB20 system will continue to work. 
+- Bottom two options are to trigger the IDLE function through an arbitrary channel.  The idle function is triggered red when the data meets the condition.  We  can select the control channel here.  
+
+**Screen calibration** is the touch screen calibration, don't use this feature if your screen work normally.
+
 ### References
 
 - [https://fpvmodel.com/products/rmilec-nb20-v2-20-channel-uhf-lrs-long-range-rc-system](https://fpvmodel.com/products/rmilec-nb20-v2-20-channel-uhf-lrs-long-range-rc-system)
