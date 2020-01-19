@@ -1,5 +1,5 @@
 
-# Drone S680 Hexacopter Build
+# Drone S680 Hexacopter (In Progress)
 
 ### Shopping List
 
