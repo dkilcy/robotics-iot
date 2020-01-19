@@ -66,7 +66,9 @@ The home page will display the chip temperature and the fan will turn on automat
 
 https://www.youtube.com/watch?v=RzgM4oTe1go  
 
-Now we will demonstrate the use of the NB20 system.  
+Now we will demonstrate the use of the NB20 system.  **RF noise** Background noise is automatically detected when the system is turned on. This noise indicates the noise of the current transmitter environment. Now the noise shows -107dBm. The sensitivity of this system is very high.  -107dBm actually causes some interference to the system.  This actually has a netative effect on remote range. But the effect is small.  If the background noise becomes higher, I suggest changing position or changing other bands.  
+
+This is a test receiver. The transmitter is now working properly. But now the receiver cant receive the signal.   Now the receiver requires a BIND operation.  You need to hold down the BIND button of the receiver.  Then power the receiver.  Before BIND you need to turn on all of your onboard electronics.  Thus the EMI data scanned by the receiver is meaningful. Receiver scanning accuracy is very high, sensitivity is very high, but the speed will be relatively slow.  The receiver has received the scan command and is scanning. When the scan is complete, there will be an indication on the screen.  Now that BIND is complete, the receiver needs to be restarted.     Now the servo is plugged into CH1.  We can see that the servo's motion corresponds to the main page.  
 
 ### References
 
