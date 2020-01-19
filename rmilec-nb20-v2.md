@@ -12,6 +12,8 @@ Specs:
 
 ### Installation
 
+https://www.youtube.com/watch?v=QTbWvJ0o1sY
+
 There should be two quick-release screws.  Remove the screws you can open the FR4 cover.  
 You'll find terminal and some pins.  
 The pin's instructions are on the back of them. On the right is GND, then 5V output, then SBUS, then PPM2, then PPM1.  
@@ -30,6 +32,8 @@ The cover needs to be installed in normal use.
 Don't forget to insall the antenna.  
 
 ### Setting Guide
+
+https://www.youtube.com/watch?v=9kM5GU6OBSI
 
 Click SET.  
 
@@ -69,6 +73,19 @@ https://www.youtube.com/watch?v=RzgM4oTe1go
 Now we will demonstrate the use of the NB20 system.  **RF noise** Background noise is automatically detected when the system is turned on. This noise indicates the noise of the current transmitter environment. Now the noise shows -107dBm. The sensitivity of this system is very high.  -107dBm actually causes some interference to the system.  This actually has a netative effect on remote range. But the effect is small.  If the background noise becomes higher, I suggest changing position or changing other bands.  
 
 This is a test receiver. The transmitter is now working properly. But now the receiver cant receive the signal.   Now the receiver requires a BIND operation.  You need to hold down the BIND button of the receiver.  Then power the receiver.  Before BIND you need to turn on all of your onboard electronics.  Thus the EMI data scanned by the receiver is meaningful. Receiver scanning accuracy is very high, sensitivity is very high, but the speed will be relatively slow.  The receiver has received the scan command and is scanning. When the scan is complete, there will be an indication on the screen.  Now that BIND is complete, the receiver needs to be restarted.     Now the servo is plugged into CH1.  We can see that the servo's motion corresponds to the main page.  
+
+### Input Signal Conversion and PPM Setting
+
+https://www.youtube.com/watch?v=QkY1R1zaVKo
+
+Now lets do something more complicated. If you have multiple receivers, or your signal access is very complex. You need to buy a signal converter. Now I will use this converter to convert the SBUS signal into a PPM.  I will connect the PPM interface to the NB20.  Now I'm going to show you how these wires are connected.  First I connected the servo wire directly to the NB20 and receiver.  Now the SBUS signal for the NB20 system comes from this receiver. Now this SBUS wire is plugged into the signal converter through another wire.  Tih is another servo wire, just to power the signal converter. This white wire is PPM output.  The main page will then show that the status of PPM1 is normal.  Since the FUT is off, the SBUS displays a FS status.  We can see SBUS data and PPM data in the data analysis. PPM is an analog signal, but we can see that their sampling error is very small.  If the signal is inserted into the PPM2, the PPM2 will display the same data. I short-circuted PPM1 and PPM2 with a screwdriver, and you can see their sample data at the same time, and they can work at the same time.  If you have a lot of receivers, you can distribute them.  For example, one receiver corresponds to 1234 channels and the second receiver corresponds to 5678 channels.  
+
+### USB Upgrade
+
+https://www.youtube.com/watch?v=QkY1R1zaVKo
+
+This USB port is for upgrading.  If you want to upgrade the UI, you need to remove the top cover and upgrade through TF card.  The upgrade files need to be downloaded into the TF root directory, inserted into the card slot, and then re-power the system.  When plugged into the computer, the USB port is recognized as a USB flash drive.  But you can only use it on Windows 7 and below.  Win8 and Win10, will produce garbage file after formatting, make system upgrade failure or damaged.  Upgrade operation, only need to copy the upgrade file to the flash drive.   However, writing any other files before writing to the system firmware will cause firmare corruption or upgrade failure.  **If you format the drive under Windows 8 or 10, your system firmware will be damaged directly, even if you don't do any writing** 
+
 
 ### References
 
