@@ -62,6 +62,12 @@ The home page will display the chip temperature and the fan will turn on automat
 
 **Screen calibration** is the touch screen calibration, don't use this feature if your screen work normally.
 
+### RF Function and Frequency
+
+https://www.youtube.com/watch?v=RzgM4oTe1go  
+
+Now we will demonstrate the use of the NB20 system.  
+
 ### References
 
 - [https://fpvmodel.com/products/rmilec-nb20-v2-20-channel-uhf-lrs-long-range-rc-system](https://fpvmodel.com/products/rmilec-nb20-v2-20-channel-uhf-lrs-long-range-rc-system)
