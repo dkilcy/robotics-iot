@@ -14,7 +14,7 @@
 
 ### Wiring
 
-![Wiring Diagram]()
+![Wiring Diagram](F405-WING_C1.jpg)
 
 
 ### References
