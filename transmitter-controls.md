@@ -9,15 +9,15 @@
 - Roll[Alerion]: Left/Right
 
 ```
-                  Up                                 Forward
-                   |                                    |
-                   |                                    |
-(Yaw)     <--------+--------> R      (Roll)  L <--------+--------> R
-[Rudder]           |                 [Alerion]          |
-                   |                                    |
-                  Down                               Backward   
+                Up                                  Forward
+                 |                                     |
+                 |                                     |
+(Yaw)  RL <------+------> RR     (Roll)  Left <------+------> Right
+[Rudder]         |               [Alerion]             |
+                 |                                     |
+                Down                                Backward   
                   
-               (Throttle)                            (Pitch)
+               (Throttle)                           (Pitch)
                [Throttle]                           [Elevator]       
 ```
 
