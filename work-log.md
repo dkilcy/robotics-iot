@@ -20,12 +20,12 @@
 - Experiment with Jumper T16 
   - OpenTX/JumperTX update
   
-  ##### Stretch Goals
+##### Stretch Goals
   
-  - Ham license
-  - Autonomous flight with Ardupilot
-  - 5.8 FPV Test
-  - DragonLink work
+- Ham license
+- Autonomous flight with Ardupilot
+- 5.8 FPV Test
+- DragonLink work
   
   
   
