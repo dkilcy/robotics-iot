@@ -9,16 +9,16 @@
 - Roll[Alerion]: Left/Right
 
 ```
-                Up                                  Forward
-                 |                                     |
-                 |                                     |
+                Up                                Forward
+                 |                                   |
+                 |                                   |
 (Yaw)  RL <------+------> RR     (Roll)  Left <------+------> Right
-[Rudder]         |               [Alerion]             |
-                 |                                     |
-                Down                                Backward   
+[Rudder]         |               [Alerion]           |
+                 |                                   |
+                Down                              Backward   
                   
-               (Throttle)                           (Pitch)
-               [Throttle]                           [Elevator]       
+               (Throttle)                         (Pitch)
+               [Throttle]                         [Elevator]       
 ```
 
 Transmitter: Taranis X9D SE 2019.  Mode 2, Default Channel Order: AETR
