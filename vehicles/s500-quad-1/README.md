@@ -1,5 +1,10 @@
 ## Drone S500 Quadcopter (Build 1)
 
+- Pixhawk Flight Controller
+- FrSky X8R Receiver
+- FrSky Telemetry 
+- GPS, Variometer Sensor
+
 ### Shopping List
  
 | Component | Price |
@@ -15,7 +20,8 @@
 | [3" 6" 12" 24" JR / Spektrum / Hitec Style Servo Extension Variety Pack - 4 each - Apex RC Products #1028 ](https://www.amazon.com/gp/product/B01JKCKB8O/) | $16.99 |
 | [XT60 Connectors Female Male - Easy Solder Functional Wire Cover for DIY Custom Lipo Battery RC Car 3D Printer (20 Pack)](https://www.amazon.com/gp/product/B07CWF8CRX/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1) | $13.99 | 
 | [Hobbypower GF Shock Absorber Board Anti-Vibration for APM2.6 APM2.8 Pixhawk PX4 Flight Controller](https://www.amazon.com/gp/product/B01MQGPOFQ/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1) | $7.99 |
-| [Titan 3500mAh 3S Advanced High Capacity Lithium Ion Battery Pack NCR18650GA Triangle Version ](https://www.amazon.com/gp/product/B01E0KSSZO/) | $34.16 x2 | 
 | [FrSky Yaapu Telemetry Converter Cable Pixhawk to Horus X10S X12S Taranis X9DP QX7/X7S Smart Port Receiver X8R X4R XSR RS8R ](https://www.amazon.com/gp/product/B07KJFWTCB) | $14.90 |
+| [FrSky 2.4G Telemetry S.Port High Precison Variometer Sensor](https://www.amazon.com/gp/product/B014IYUGJS/) | $33.00 |
+| [Yoton Accessories Drone Professional Accessories DIY Plastic Drone Parts S550 Hexacopter Tarot 650 Iron Man S500 Quadcopter Frame Landing Gear Kit](https://www.amazon.com/gp/product/B07RMY3DNF/) | $30.39
 
-Total: $394.88
+Total: $389.35
