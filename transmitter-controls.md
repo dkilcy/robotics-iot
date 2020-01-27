@@ -56,3 +56,21 @@ For Ardupilot, match params with mixer
 | 4 | Loiter |
 | 5 | |
 | 6 | RTL |
+
+### Throttle Curve Settings
+
+Points: 9 
+
+| Pt | X | y |
+| - | - | - |
+| 1 | -100 | -100 |
+| 2 | -75 | -75 |
+| 3 | -50 | -50 |
+| 4 | -25 | -32 |
+| 5 | 0 | -20 |
+| 6 | 25 | -12 |
+| 7 | 50 | 25 |
+| 8 | 75 | 50 |
+| 9 | 100 | 100 |
+
+Assign Curve to Throttle Input
