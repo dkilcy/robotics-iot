@@ -28,3 +28,4 @@ Nice to have:
 
 - [Zohd Dart XL INAV FPV Upgrade - thingiverse](https://www.thingiverse.com/thing:3311328)
 - [Oscar Liang Review](https://oscarliang.com/zohd-dart-xl/)
+- [Step By Step Guide | Arduplane/Chibios On Matek F405 Wing Board | Full Configuration & OSD | Omnibus](https://www.youtube.com/watch?v=kvI2Jp2JQs0)
