@@ -23,6 +23,12 @@ Nice to have:
 
 ![Wiring Diagram](F405-WING_C1.jpg)
 
+### Transmitter Setup
+
+#### References
+
+[Basic Elevon (OpenTX)](https://opentx.gitbooks.io/manual-for-opentx-2-2/model-setup-examples/basic-elevon.html)
+[Taranis Mixer for Wings - Oscar Liang](https://oscarliang.com/taranis-mixer-for-wings/)
 ### References
 
 - [Zohd Dart XL INAV FPV Upgrade - thingiverse](https://www.thingiverse.com/thing:3311328)
