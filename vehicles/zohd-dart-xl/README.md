@@ -19,6 +19,16 @@ Nice to have:
 - [Runcam 2 FPV](https://www.amazon.com/RunCam-Camera-Action-Android-Switchable/dp/B019F2JXMO)
 - Runcam 3S
 
+### Flash Firmware
+
+https://firmware.ardupilot.org/Plane/stable/MatekF405-Wing/  
+
+- Flashed to Auduplane v4.0.3 on 02/02/2020
+
+#### References
+
+- [ImpulseRC Driver Fixer program](https://impulserc.blob.core.windows.net/utilities/ImpulseRC_Driver_Fixer.exe)
+
 ### Wiring
 
 ![Wiring Diagram](F405-WING_C1.jpg)
@@ -27,11 +37,11 @@ Nice to have:
 
 #### References
 
-[Basic Elevon (OpenTX)](https://opentx.gitbooks.io/manual-for-opentx-2-2/model-setup-examples/basic-elevon.html)
-[Taranis Mixer for Wings - Oscar Liang](https://oscarliang.com/taranis-mixer-for-wings/)
+- [Basic Elevon (OpenTX)](https://opentx.gitbooks.io/manual-for-opentx-2-2/model-setup-examples/basic-elevon.html)
+- [Taranis Mixer for Wings - Oscar Liang](https://oscarliang.com/taranis-mixer-for-wings/)
+
 ### References
 
 - [Zohd Dart XL INAV FPV Upgrade - thingiverse](https://www.thingiverse.com/thing:3311328)
 - [Oscar Liang Review](https://oscarliang.com/zohd-dart-xl/)
 - [Step By Step Guide | Arduplane/Chibios On Matek F405 Wing Board | Full Configuration & OSD | Omnibus](https://www.youtube.com/watch?v=kvI2Jp2JQs0)
-- [ImpulseRC Driver Fixer program](https://impulserc.blob.core.windows.net/utilities/ImpulseRC_Driver_Fixer.exe)
