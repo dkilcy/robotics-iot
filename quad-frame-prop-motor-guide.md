@@ -95,6 +95,8 @@ Constant Velocity - K=RPM, V=Per Volt. How many RPM a motor give up per volt.  E
 
 ### ESC
 
+Electronic Speed Controllers (ESC) converts the PWM signal from the flight controller or radio receiver, and drives the brushless motor by providing the appropriate level of electrical power.
+
 Pair ESC greater than max amp draw of motor
 
 ## How to decide propeller and motor size?
@@ -151,6 +153,7 @@ Thrust-to-weight ratio for 1360g of thrust and 1500g of weight: (1360*4=5440)/15
 ### References
 
 - [https://oscarliang.com/quadcopter-motor-propeller/](https://oscarliang.com/quadcopter-motor-propeller/)
+- [https://oscarliang.com/change-motor-spin-direction-quadcopter/](https://oscarliang.com/change-motor-spin-direction-quadcopter/)
 - [https://quadquestions.com/blog/2017/02/22/choose-right-size-motors-drone/](https://quadquestions.com/blog/2017/02/22/choose-right-size-motors-drone/)
 - [https://www.dronetrest.com/t/how-to-choose-the-right-motor-for-your-multicopter-drone/568](https://www.dronetrest.com/t/how-to-choose-the-right-motor-for-your-multicopter-drone/568)
 - [https://robotics.stackexchange.com/questions/25/how-to-choose-the-right-propeller-motor-combination-for-a-quadcopter?rq=1](https://robotics.stackexchange.com/questions/25/how-to-choose-the-right-propeller-motor-combination-for-a-quadcopter?rq=1)
