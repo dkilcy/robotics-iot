@@ -1,7 +1,6 @@
 
-## ESC BEC UBEC
+## BEC UBEC
 
-- ESC: It converts the PWM signal from the flight controller or radio receiver, and drives the brushless motor by providing the appropriate level of electrical power.
 - BEC: Voltage regulator to convert 2/3/4S LiPo to 5V (Linear)
 - UBEC: Universal BEC (Switched)
 
