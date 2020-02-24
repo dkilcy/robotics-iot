@@ -99,6 +99,8 @@ Electronic Speed Controllers (ESC) converts the PWM signal from the flight contr
 
 Pair ESC greater than max amp draw of motor
 
+![esc-motor-wire-connection-rotate-spin-direction](esc-motor-wire-connection-rotate-spin-direction.jpg)
+
 ## How to decide propeller and motor size?
 
 Frame Size => Prop Size => Motor Size
