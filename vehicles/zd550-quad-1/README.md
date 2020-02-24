@@ -12,9 +12,11 @@
 
 ### Firmware
 
-### Frane
+- [Ardupilot stack support](https://github.com/ArduPilot/ardupilot/blob/master/libraries/AP_HAL_ChibiOS/hwdef/KakuteF7/README.md)
 
-![]()
+### Frame
+
+![motororder-quad-x-2d](motororder-quad-x-2d.png)
 
 ### Wiring
 
