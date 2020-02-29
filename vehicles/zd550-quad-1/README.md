@@ -20,6 +20,10 @@
 
 ### Wiring
 
+- GPS to UART 4
+- Receiver to UART 6
+- Telemetry to UART 1 or 2
+
 ### Receiver Setup
 
 ### Transmitter Setup
@@ -28,3 +32,4 @@
 
 - [How to Flash Ardupilot Firmware on Kakute F4 / F7 FC](https://oscarliang.com/flash-ardupilot-kakute-f4-f7-fc/)
 - [Holybro Kakute F7 and KAKUTE F7 AIO - Copter Documentation](https://ardupilot.org/copter/docs/common-holybro-kakutef7aio.html)
+- [https://firmware.ardupilot.org/Copter/latest/KakuteF7/](https://firmware.ardupilot.org/Copter/latest/KakuteF7/)
