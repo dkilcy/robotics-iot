@@ -26,4 +26,5 @@
 
 ### Notes
 
-- [Mini carrier board – Pixhawk 2.1 Cube](https://www.airbot-systems.com/produit/mini-carrier-board-pixhawk-2-1-cube/?lang=en)
+- [How to Flash Ardupilot Firmware on Kakute F4 / F7 FC](https://oscarliang.com/flash-ardupilot-kakute-f4-f7-fc/)
+- [Holybro Kakute F7 and KAKUTE F7 AIO - Copter Documentation](https://ardupilot.org/copter/docs/common-holybro-kakutef7aio.html)
