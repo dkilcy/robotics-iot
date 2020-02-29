@@ -16,7 +16,7 @@
 
 ### Frame
 
-![motororder-quad-x-2d](motororder-quad-x-2d.png =250x250)
+<img src="motororder-quad-x-2d.png" alt="drawing" width="100"/>
 
 ### Wiring
 
