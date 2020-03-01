@@ -14,6 +14,18 @@
 
 - [Ardupilot stack support](https://github.com/ArduPilot/ardupilot/blob/master/libraries/AP_HAL_ChibiOS/hwdef/KakuteF7/README.md)
 
+1. Start Betaflight Configurator
+2. Click Update Firmware
+3. Enable **Full Chip Erase**
+4. Click **Load Firmware [Local]** and select arducopter firmware hex file
+5. Click **Flash Firmware**
+
+In the future the FC can be flashed with the .apj files from Mission Planner
+
+### Mission Planner
+
+
+
 ### Frame
 
 <img src="motororder-quad-x-2d.png" alt="drawing" width="100"/>
