@@ -3,27 +3,19 @@
 
 ### Summary
 
-- [Holybro Kakute F7 V1.5](http://www.holybro.com/product/kakute-f7/)
-- [Holybro Atlatl HV V2](http://www.holybro.com/product/atlatl-hv-v2/)
-- [Holybro Tekko32 4in1 ESC (35A)](http://www.holybro.com/product/tekko32-4in1-esc-35a/)
+- [Holybro Pixhawk 4](http://www.holybro.com/product/pixhawk-4/)\
+- [Holybro Pixhawk 4 PM07](http://www.holybro.com/product/pixhawk-4-power-module-pm07/)
+- [Holybro Pixhawk 4 GPS Module](http://www.holybro.com/product/pixhawk-4-gps-module/)
+- [Turnigy Multistar 3508-580KV](https://hobbyking.com/en_us/3508-580kv-turnigy-multistar-14-pole-brushless-multi-rotor-motor-with-extra-long-leads.html)
+- [Readytosky 30A ESC Opto 2-6S Brushless Speed Controller for F450 S500 ZD550 RC Helicopter Quadcopter](https://www.amazon.com/gp/product/B07PZTB2MH/)
+- Crazepony FPV Transmitter Rush Tank 5.8GHz 48CH 0/25/200/500/800mW Switchable VTX Video Transmitter TBS SartAudio Inside MMCX Connector Pit Mode FPV Q 
 - [SummitLink FPV 3 Channel Video Switch Module 3 way Video Switcher Unit for FPV cameras](https://www.amazon.com/gp/product/B00R5CJEY4)
 - Runcam Swift 2
-- Matek GPS
 
 ### Firmware
 
-- [Ardupilot stack support](https://github.com/ArduPilot/ardupilot/blob/master/libraries/AP_HAL_ChibiOS/hwdef/KakuteF7/README.md)
-
-1. Start Betaflight Configurator
-2. Click Update Firmware
-3. Enable **Full Chip Erase**
-4. Click **Load Firmware [Local]** and select arducopter firmware hex file
-5. Click **Flash Firmware**
-
-In the future the FC can be flashed with the .apj files from Mission Planner
 
 ### Mission Planner
-
 
 
 ### Frame
@@ -32,16 +24,9 @@ In the future the FC can be flashed with the .apj files from Mission Planner
 
 ### Wiring
 
-- GPS to UART 4
-- Receiver to UART 6
-- Telemetry to UART 1 or 2
-
 ### Receiver Setup
 
 ### Transmitter Setup
 
 ### Notes
 
-- [How to Flash Ardupilot Firmware on Kakute F4 / F7 FC](https://oscarliang.com/flash-ardupilot-kakute-f4-f7-fc/)
-- [Holybro Kakute F7 and KAKUTE F7 AIO - Copter Documentation](https://ardupilot.org/copter/docs/common-holybro-kakutef7aio.html)
-- [https://firmware.ardupilot.org/Copter/latest/KakuteF7/](https://firmware.ardupilot.org/Copter/latest/KakuteF7/)
