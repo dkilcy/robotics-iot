@@ -24,6 +24,10 @@
 
 ### Wiring
 
+<img src="20200307_161549.jpg" alt="drawing" width="200"/>
+<img src="20200307_161612.jpg" alt="drawing" width="200"/>
+<img src="20200307_161630.jpg" alt="drawing" width="200"/>
+
 ### Receiver Setup
 
 ### Transmitter Setup
