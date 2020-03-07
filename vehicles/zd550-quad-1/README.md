@@ -3,7 +3,7 @@
 
 ### Summary
 
-- [Holybro Pixhawk 4](http://www.holybro.com/product/pixhawk-4/)\
+- [Holybro Pixhawk 4](http://www.holybro.com/product/pixhawk-4/)
 - [Holybro Pixhawk 4 PM07](http://www.holybro.com/product/pixhawk-4-power-module-pm07/)
 - [Holybro Pixhawk 4 GPS Module](http://www.holybro.com/product/pixhawk-4-gps-module/)
 - [Turnigy Multistar 3508-580KV](https://hobbyking.com/en_us/3508-580kv-turnigy-multistar-14-pole-brushless-multi-rotor-motor-with-extra-long-leads.html)
