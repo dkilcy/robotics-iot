@@ -6,7 +6,7 @@
 1. Configure 2 outputs of TBS Crossfire Receiver as Mavlink TX/RX
 
 - Output 7: MAVL.RX
-- Output 8: MAVL. TX
+- Output 8: MAVL.TX
 
 2. Connect to Telemetry port on Pixhawk
 
