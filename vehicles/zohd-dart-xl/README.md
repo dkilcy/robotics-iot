@@ -25,9 +25,7 @@ https://firmware.ardupilot.org/Plane/stable/MatekF405-Wing/
 
 - Flashed to Auduplane v4.0.3 on 02/02/2020
 
-#### References
-
-- [ImpulseRC Driver Fixer program](https://impulserc.blob.core.windows.net/utilities/ImpulseRC_Driver_Fixer.exe)
+- This application will attempt to install the correct serial port and DFU drivers for using STM32 F3 based flight controllers on Windows.: [ImpulseRC Driver Fixer program](https://impulserc.blob.core.windows.net/utilities/ImpulseRC_Driver_Fixer.exe)
 
 ### Wiring
 
