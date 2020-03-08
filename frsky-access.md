@@ -18,6 +18,6 @@
 
 ####  Bind Receiver to Transmitter
 
-5. From the Taranis transmitter, select Bind for Receiver1.  The transmitter starts the bind process (chirps)
-6. Power on the receiver.   
-7. Once the transmitter discovers the receiver, click OK.   The LED will go green on the receiver.  Binding is complete.
+1. From the Taranis transmitter, select Bind for Receiver1.  The transmitter starts the bind process (chirps)
+2. Power on the receiver.   
+3. Once the transmitter discovers the receiver, click OK.   The LED will go green on the receiver.  Binding is complete.
