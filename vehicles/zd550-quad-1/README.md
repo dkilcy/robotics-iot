@@ -3,6 +3,7 @@
 
 ### Summary
 
+- [USAQ 550mm Compact Folding Quadcopter Drone Frame Kit Full Carbon Fiber Construction](https://www.amazon.com/USAQ-Compact-Folding-Quadcopter-Construction/dp/B078MX6XQP)
 - [Holybro Pixhawk 4](http://www.holybro.com/product/pixhawk-4/)
 - [Holybro Pixhawk 4 PM07](http://www.holybro.com/product/pixhawk-4-power-module-pm07/)
 - [Holybro Pixhawk 4 GPS Module](http://www.holybro.com/product/pixhawk-4-gps-module/)
@@ -20,8 +21,20 @@
 
 ### Frame
 
-<img src="motororder-quad-x-2d.png" alt="drawing" width="100"/>
+<img src="motororder-quad-x-2d.png" alt="drawing" width="100"/> 
 
+Specifications:  
+
+<img src="20200307_200015.jpg" alt="drawing" width="200">
+
+- Motor: 35-41 motor (recommended at least 3508 motor)
+- Prop: 12-15 inch CW CCW
+- ESC: 20-30A(2-6s) ; 40A (2-4S)
+- Flight control: DJI Naze-M Lite, DJI Naza-M V2, PixHawk, APM, 32-Bit CC3D/Naze using iNav (GPS required)
+- Battery: 2-6S Lipo
+
+Package Contents:
+- ZD550 folding frame kit with landing gear and folding arm brackets
 ### Wiring
 
 <img src="20200307_161549.jpg" alt="drawing" width="250"/> <img src="20200307_161612.jpg" alt="drawing" width="250"/> <img src="20200307_161630.jpg" alt="drawing" width="250"/>
