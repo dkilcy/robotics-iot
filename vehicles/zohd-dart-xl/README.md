@@ -8,11 +8,24 @@
 - AKK Infinite DVR VTX 25mW/200mW/600mW/1000mW MMCX Transmitter 
 - Runcam Swift 2 600TVL FPV Camera Integrated OSD 2.3mm Lens
 - [Matek SAM-M8Q Mini FPV GPS Module](http://www.mateksys.com/?portfolio=sam-m8q)
-- [Matek M8Q-5883 GPS Compass Module](http://www.mateksys.com/?portfolio=m8q-5883)
 
-Need:
+### Aircraft Specifications
 
-- Receiver
+- Brand Name: ZOHD
+- Item Name: ZOHD Dart XL “Extreme”
+- Material: Biodegradable BEPP
+- Wingspan: 1000mm (39.37”)
+- Length: 596mm (23.46”)
+- Flying speed: 25-100+km/h
+- Motor: 2216-1300KV
+- ESC: 30A w/5V 3A BEC
+- Servos: 9g Metal Gear Digital
+- Prop: 9X4.5
+- Recommended Battery: 4S 3300mAh
+- Wing area: 19.8dm²
+- Wing load: 60.6g/dm² (Max.)
+- Recommended Max. Flying weight: 1200g
+- Max. Flying time: 40 minutes (with recommended battery)
 
 Nice to have:
 
