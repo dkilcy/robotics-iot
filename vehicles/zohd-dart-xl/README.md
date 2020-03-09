@@ -27,18 +27,17 @@
 - Recommended Max. Flying weight: 1200g
 - Max. Flying time: 40 minutes (with recommended battery)
 
-Nice to have:
-
-- [Runcam 2 FPV](https://www.amazon.com/RunCam-Camera-Action-Android-Switchable/dp/B019F2JXMO)
-- Runcam 3S
-
 ### Flash Firmware
 
 Documentation: https://ardupilot.org/plane/docs/common-matekf405-wing.html  
 Firmware: https://firmware.ardupilot.org/Plane/stable/MatekF405-Wing/  
-- Flashed to Auduplane v4.0.3 on 02/02/2020
+- Flashed to Auduplane v4.0.3 on 02/02/2020 with Betaflight
 
 - This application will attempt to install the correct serial port and DFU drivers for using STM32 F3 based flight controllers on Windows.: [ImpulseRC Driver Fixer program](https://impulserc.blob.core.windows.net/utilities/ImpulseRC_Driver_Fixer.exe)
+
+### Mission Planner
+
+Parameters: 
 
 ### Wiring
 
@@ -46,13 +45,10 @@ Firmware: https://firmware.ardupilot.org/Plane/stable/MatekF405-Wing/
 
 ### Transmitter Setup
 
-#### References
-
-- [Basic Elevon (OpenTX)](https://opentx.gitbooks.io/manual-for-opentx-2-2/model-setup-examples/basic-elevon.html)
-- [Taranis Mixer for Wings - Oscar Liang](https://oscarliang.com/taranis-mixer-for-wings/)
 
 ### References
 
+- [Step By Step Guide | Arduplane/Chibios On Matek F405 Wing Board | Full Configuration & OSD | Omnibus](https://www.youtube.com/watch?v=kvI2Jp2JQs0)
 - [Zohd Dart XL INAV FPV Upgrade - thingiverse](https://www.thingiverse.com/thing:3311328)
 - [Oscar Liang Review](https://oscarliang.com/zohd-dart-xl/)
-- [Step By Step Guide | Arduplane/Chibios On Matek F405 Wing Board | Full Configuration & OSD | Omnibus](https://www.youtube.com/watch?v=kvI2Jp2JQs0)
+
