@@ -9,6 +9,8 @@
 - Runcam Swift 2 600TVL FPV Camera Integrated OSD 2.3mm Lens
 - [Matek SAM-M8Q Mini FPV GPS Module](http://www.mateksys.com/?portfolio=sam-m8q)
 
+Weight without battery: 768g
+
 ### Aircraft Specifications
 
 - Brand Name: ZOHD
