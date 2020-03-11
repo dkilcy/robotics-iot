@@ -5,8 +5,9 @@
 
 - [Zohd Dart XL Extreme](https://www.getfpv.com/zohd-dart-xl-extreme-1000mm-wingspan-fpv-aircraft-rc-airplane-pnp.html)
 - [Matek F405-WING Flight Controller](http://www.mateksys.com/?portfolio=f405-wing)
-- Runcam Swift 2 600TVL FPV Camera Integrated OSD 2.3mm Lens
 - [Matek GPS Module SAM-M8Q](http://www.mateksys.com/?portfolio=sam-m8q)
+- Rush Tank 5.8GHz 48CH 0/25/200/500/800mW Switchable VTX Video Transmitter TBS SmartAudio Inside MMCX Connector Pit Mode FPV
+- Runcam Swift 2 600TVL FPV Camera Integrated OSD 2.3mm Lens
 
 Weight without battery: 775g
 
