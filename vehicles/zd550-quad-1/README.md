@@ -14,7 +14,7 @@
 Total weight from above: 1430g
 
 FPV:
-- Crazepony FPV Transmitter Rush Tank 5.8GHz 48CH 0/25/200/500/800mW Switchable VTX Video Transmitter TBS SartAudio Inside MMCX Connector Pit Mode FPV Q 
+- VTX 
 - [SummitLink FPV 3 Channel Video Switch Module 3 way Video Switcher Unit for FPV cameras](https://www.amazon.com/gp/product/B00R5CJEY4)
 - Runcam Swift 2
 
