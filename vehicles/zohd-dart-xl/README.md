@@ -7,7 +7,7 @@
 - [Matek F405-WING Flight Controller](http://www.mateksys.com/?portfolio=f405-wing)
 - AKK Infinite DVR VTX 25mW/200mW/600mW/1000mW MMCX Transmitter 
 - Runcam Swift 2 600TVL FPV Camera Integrated OSD 2.3mm Lens
-- [Matek SAM-M8Q Mini FPV GPS Module](http://www.mateksys.com/?portfolio=sam-m8q)
+- [Matek GPS Module SAM-M8Q](http://www.mateksys.com/?portfolio=sam-m8q)
 
 Weight without battery: 775g
 
