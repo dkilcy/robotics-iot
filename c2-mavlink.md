@@ -1,7 +1,19 @@
 
 ## Command/Control via MAVLink
 
-### Mission Planner 
+### UAVcast-Pro Setup
+
+- Start Gstreamer launcher and Mission Planner.  
+- Mission Planner: Select UDP then connect, port 14550.  Starts UDP listening endpoint
+- Power up RPI and Pixhawk
+- Video and MAVLink telemetry when finished booting
+
+From shell:
+```
+gst-launch-1.0 -v udpsrc port=5600 caps="application/x-rtp, media=(string)video, clock-rate=(int)90000, encoding-name=(string)H264" ! rtpjitterbuffer ! rtph264depay ! avdec_h264 ! videoconvert ! autovideosink sync=false 
+```
+
+###@ Mission Planner Notes
 
 To fix pixelating frames or grey overlay in HUD add 'rtpjitterbuffer'
 HUD=>Video=>Set Gstreamer source
@@ -14,7 +26,7 @@ HUD=>Video=>Set Gstreamer source
 #### Open Source
 
 - [Video streaming in QGroundControl](https://dev.px4.io/v1.9.0/en/qgc/video_streaming.html)
-- [MAVLink Router - GitHub](https://github.com/intel/mavlink-router]
+- [MAVLink Router - GitHub](https://github.com/intel/mavlink-router)
 
 #### Forums
 
