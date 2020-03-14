@@ -1,13 +1,20 @@
 
 ## Command/Control via MAVLink
 
+### Mission Planner 
+
+To fix pixelating frames or grey overlay in HUD add 'rtpjitterbuffer'
+HUD=>Video=>Set Gstreamer source
+```
+ udpsrc port=5600 caps = "application/x-rtp, media=video, clock-rate=90000, encoding-name=H264, payload=96" ! rtpjitterbuffer ! rtph264depay ! avdec_h264 ! videoconvert ! video/x-raw,format=BGRA ! appsink name=outsink
+ ```
 
 ### Resources
 
 #### Open Source
 
 - [Video streaming in QGroundControl](https://dev.px4.io/v1.9.0/en/qgc/video_streaming.html)
-- [MAVLink Router - GitHub[https://github.com/intel/mavlink-router]
+- [MAVLink Router - GitHub](https://github.com/intel/mavlink-router]
 
 #### Forums
 
