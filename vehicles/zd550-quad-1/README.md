@@ -9,6 +9,18 @@
 - [Holybro Pixhawk 4 GPS Module](http://www.holybro.com/product/pixhawk-4-gps-module/)
 - [TBS Crossfire 8ch Diversity Receiver](https://www.team-blacksheep.com/products/prod:crossfire_8chrx)
 - 4x [Turnigy Multistar 3508-580KV](https://hobbyking.com/en_us/3508-580kv-turnigy-multistar-14-pole-brushless-multi-rotor-motor-with-extra-long-leads.html)
+  - KV(RPM/V): 580
+  - Lipo cells: 3-4s
+  - Max current: 340w
+  - Max Amps: 26A
+  - No Load Current: 0.4A/10v
+  - Internal Resistance: .106ohm
+  - Number of Poles: 14P12S (14poles 12 stators)
+  - Dimensions(Dia.xL):42 x 26mm
+  - Motor Shaft: 4mm
+  - Prop Shaft: 6mm bolt on hub or 12mm hole to hole for bolt threw style props
+  - Weight: 102g
+  - Bolt hole spacing: 19mm * 25mm
 - 4x [Readytosky 30A ESC Opto 2-6S Brushless Speed Controller for F450 S500 ZD550 RC Helicopter Quadcopter](https://www.amazon.com/gp/product/B07PZTB2MH/)
 
 Total weight from above: 1430g
