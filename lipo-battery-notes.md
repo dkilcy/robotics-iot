@@ -3,14 +3,14 @@
 
 All LiPo batteries come with 2 sets of wires/connectors: a balance lead and a main lead or discharge lead (Except for 1S batteries which only have a main lead).
 
-| Cells | Std Voltage | Max Charge Voltage | Storage Voltage | Max Charge Current |
-| - | - | - | - | - |
-| 1S | 3.7V | 4.2V | 3.8V | 1C |
-| 2S | 7.4V | 8.4V | 7.6V | |
-| 3S | 11.1 | 12.6V | 11.4V | |
-| 4S | 14.8 | 16.8V | 15.2V | |
-| 5S | 18.5 | 21.0V | 19.0V | |
-| 6S | 22.2 | 25.2V | 22.8V | |  
+| Cells | Std Voltage | Max Charge Voltage | Max Discharge Voltage | Storage Voltage | Max Charge Current |
+| - | - | - | - | - | - |
+| 1S | 3.7V | 4.2V | | 3.8V | 1C |
+| 2S | 7.4V | 8.4V | | 7.6V | |
+| 3S | 11.1 | 12.6V | | 11.4V | |
+| 4S | 14.8 | 16.8V | | 15.2V | |
+| 5S | 18.5 | 21.0V | | 19.0V | |
+| 6S | 22.2 | 25.2V | | 22.8V | |  
 
 - Only recharge battery when battery is at ambient/room temperature
 - LiPo batteries need to be discharged and stored with cell voltages near nominal, at 3.8V.
