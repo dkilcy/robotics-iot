@@ -23,7 +23,8 @@ gst-launch-1.0 -v udpsrc port=5600 caps="application/x-rtp, media=(string)video,
 #### Forums
 
 - [Unlimited range HD streaming with LTE - Ardupilot Blog](https://discuss.ardupilot.org/t/unlimited-range-hd-streaming-with-lte/48670)
-- [4G telemetry for Pixhawk - PX4 Autopilot - Flight Controllers](https://discuss.px4.io/t/4g-telemetry-for-pixhawk/1548/7)
+- [4G telemetry for Pixhawk - PX4 Autopilot - Flight Controllers](https://discuss.px4.io/t/4g-telemetry-for-pixhawk/1548)
+- [Will RC control override Mavlink control?](https://discuss.ardupilot.org/t/will-rc-control-override-mavlink-control/17194)
 
 #### Commercial Software Products 
 
