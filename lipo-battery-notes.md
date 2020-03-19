@@ -9,8 +9,8 @@ All LiPo batteries come with 2 sets of wires/connectors: a balance lead and a ma
 | 2S | 7.4V | 8.4V | 7.6V | |
 | 3S | 11.1 | 12.6V | 11.4V | |
 | 4S | 14.8 | 16.8V | 15.2V | |
-| 5S | 18.5 | | | |
-| 6S | 22.2 | | | |
+| 5S | 18.5 | 21.0V | 19.0V | |
+| 6S | 22.2 | 25.2V | 22.8V | |  
 
 - LiPo batteries need to be discharged and stored with cell voltages near nominal, at 3.8V.
 - Stop discharging battery when cell voltage nears 3.5V
@@ -45,8 +45,9 @@ How to determine size battery needed for vehicle.
 
 ### Internal Resistance
 
-Internal Resistance
-Internal resistance (IR) can be used to measure how good a LiPo battery is. The lower the value, the better. Higher internal resistance reduces the max current the LiPo can produce, and voltage sag becomes worse. More energy is wasted as heat, and therefore the battery is also more likely to overheat.
+Internal resistance (IR) can be used to measure how good a LiPo battery is. The lower the value, the better. Higher internal resistance reduces the max current the LiPo can produce, and voltage sag becomes worse. More energy is wasted as heat, and therefore the battery is also more likely to overheat.  
+
+Note the IR as soon as you bought them
 
 ### BattGo
 
