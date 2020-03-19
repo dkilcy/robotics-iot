@@ -13,14 +13,6 @@ From shell:
 gst-launch-1.0 -v udpsrc port=5600 caps="application/x-rtp, media=(string)video, clock-rate=(int)90000, encoding-name=(string)H264" ! rtpjitterbuffer ! rtph264depay ! avdec_h264 ! videoconvert ! autovideosink sync=false 
 ```
 
-###@ Mission Planner Notes
-
-To fix pixelating frames or grey overlay in HUD add 'rtpjitterbuffer'
-HUD=>Video=>Set Gstreamer source
-```
- udpsrc port=5600 caps = "application/x-rtp, media=video, clock-rate=90000, encoding-name=H264, payload=96" ! rtpjitterbuffer ! rtph264depay ! avdec_h264 ! videoconvert ! video/x-raw,format=BGRA ! appsink name=outsink
- ```
-
 ### Resources
 
 #### Open Source
