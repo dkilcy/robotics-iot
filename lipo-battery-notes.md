@@ -12,10 +12,12 @@ All LiPo batteries come with 2 sets of wires/connectors: a balance lead and a ma
 | 5S | 18.5 | 21.0V | 19.0V | |
 | 6S | 22.2 | 25.2V | 22.8V | |  
 
+- Only recharge battery when battery is at ambient/room temperature
 - LiPo batteries need to be discharged and stored with cell voltages near nominal, at 3.8V.
 - Stop discharging battery when cell voltage nears 3.5V
 - At no time during use, should the voltage drop below 3.0V
 - Never charge battery above cell voltage of 4.2V
+- Replace puffy batteries
 
 ### Capacity - How Much Energy the Battery Holds (i.e Fuel Tank)
 
