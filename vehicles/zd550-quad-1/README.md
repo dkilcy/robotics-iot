@@ -1,6 +1,10 @@
 
 ## ZD550 Build
 
+TODO:
+
+- 12x4.5 vs 13x4.5 props.  12.5 will give longer flight time but 13x4.5 will give more thrust at sacrifice of flight time
+
 ### Summary
 
 - [USAQ 550mm Compact Folding Quadcopter Drone Frame Kit Full Carbon Fiber Construction](https://www.amazon.com/USAQ-Compact-Folding-Quadcopter-Construction/dp/B078MX6XQP)
@@ -48,8 +52,6 @@ Specifications:
 - Prop: 12-15 inch CW CCW
 - ESC: 20-30A(2-6s) ; 40A (2-4S)
 - Battery: 2-6S Lipo
-
-**Use 12x5 props**
 
 ### Wiring
 
