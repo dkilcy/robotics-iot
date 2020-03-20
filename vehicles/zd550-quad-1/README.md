@@ -49,6 +49,8 @@ Specifications:
 - ESC: 20-30A(2-6s) ; 40A (2-4S)
 - Battery: 2-6S Lipo
 
+**Use 12x5 props**
+
 ### Wiring
 
 <img src="20200307_161549.jpg" alt="drawing" width="250"/> <img src="20200307_161612.jpg" alt="drawing" width="250"/> <img src="20200307_161630.jpg" alt="drawing" width="250"/>
