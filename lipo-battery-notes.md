@@ -18,7 +18,7 @@ All LiPo batteries come with 2 sets of wires/connectors: a balance lead and a ma
 - At no time during use, should the voltage drop below 3.0V
 - Never charge battery above cell voltage of 4.2V
 - Replace puffy batteries
-- Batteries should not be stored (>2 days) fully charged or depleted.  Store at storage voltage.
+- Batteries should not be stored (>1 day) fully charged or depleted.  Store at storage voltage.
 
 ### Capacity - How Much Energy the Battery Holds (i.e Fuel Tank)
 
