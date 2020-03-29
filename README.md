@@ -24,6 +24,7 @@ Hardware:
 - [Lyn-Tron Electronic Hardware](https://www.lyntron.com/)
 - Kester Solder
 - 3M
+- [ACE](http://onlyoneace.com/) - no web store
 
 ### Other Part Sourcing
 
