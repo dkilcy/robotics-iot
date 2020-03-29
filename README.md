@@ -12,7 +12,12 @@
 - OpenTX Companion 
 - TBS Agent-X
 - Yuneec Q500 GUI
-- DJI Assistant 2
+- DJI Assistant
+
+### USA Part Sourcing
+
+- [Lyn-Tron Electronic Hardware](https://www.lyntron.com/)
+- [Master Airscrew](https://www.masterairscrew.com/) - Propellers
 
 ### eCalc
 
