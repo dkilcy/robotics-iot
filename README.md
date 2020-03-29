@@ -29,7 +29,7 @@
 
 ### USA Dealers
 
-- RobotShop
+- [RobotShop](https://www.robotshop.com/)
 - [RotorLogic](https://rotorlogic.com/) 
 
 ### USA Drones
