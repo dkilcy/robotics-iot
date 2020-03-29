@@ -18,7 +18,7 @@
 
 - [DragonLink](http://www.dragonlinkrc.com/)
 - [Master Airscrew](https://www.masterairscrew.com/) - Propellers
-- [Ox FFPV Drone Parts](https://www.oxfpv.com/)
+- [Ox FPV Drone Parts](https://www.oxfpv.com/)
 
 Hardware:
 - [Lyn-Tron Electronic Hardware](https://www.lyntron.com/)
