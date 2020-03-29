@@ -39,6 +39,7 @@ Hardware:
 
 ### USA Drones
 
+- [Inspired Flight](https://inspiredflight.com/) - IF750, Bernuolli 3 Motor
 - [Impossible US-1](https://impossible.aero/meet-us-1/)
 - [Terraview RangePro X8](https://terraview.com/)
 
