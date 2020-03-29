@@ -18,6 +18,23 @@
 
 - [Lyn-Tron Electronic Hardware](https://www.lyntron.com/)
 - [Master Airscrew](https://www.masterairscrew.com/) - Propellers
+- Kester Solder
+- 3M
+
+### Other Part Sourcing
+
+- [Mayan Robotics](mrobotics.io)
+- Zubax Robotics
+- Hakko (Japan)
+
+### USA Dealers
+
+- RobotShop
+- RotorLogic 
+
+### USA Drones
+
+- [Terraview RangePro X8](https://terraview.com/)
 
 ### eCalc
 
