@@ -16,6 +16,7 @@
 
 ### USA Part Sourcing
 
+- [ModalAI](https://www.modalai.com/)
 - [DragonLink](http://www.dragonlinkrc.com/)
 - [Master Airscrew](https://www.masterairscrew.com/) - Propellers
 - [Ox FPV Drone Parts](https://www.oxfpv.com/)
