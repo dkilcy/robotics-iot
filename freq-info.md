@@ -6,13 +6,14 @@
 
 ### Common Frequencies
 
+- 433 MHz
 - 900 MHz
 - 1.2 GHz / 1.3 GHz
 - 2.4 GHz
 - 3.3 GHz
 - 5.8 GHz
 
-### HAM LICENSE
+### Ham License
 
 - [AARL Getting Licensed](http://www.arrl.org/getting-licensed)
 
