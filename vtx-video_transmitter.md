@@ -37,6 +37,15 @@ Band L: Low band
 Band H: High band
 ```
 
+```
+"If the VTX doesn't have an FCC Part 15 compliant sticker on it,
+then it's not legal to use without a ham license. Period. That is true regardless of power
+level or antenna." 
+
+"At 5.8 GHz you'll need a license unless its a spread spectrum radio ( it's not ) its not illegal to sell, just operate without a proper license."
+
+ISM Band: 5650 MHz to 5925 MHz
+```
 #### Hardware
 
 - [Holybro Atlatl HV V2 VTX](https://amzn.to/2QDm4QE)
