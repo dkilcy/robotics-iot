@@ -4,12 +4,22 @@
 - Video Transmitter (VTX)
 - Video Receiver
 
-### 1.3/2.4 GHz
+### 900/1.3 GHz
 
 - [RMRC 900MHz-1.3Ghz Receiver w/1258 with Custom Comtech Tuner](https://www.readymaderc.com/products/details/rmrc-900mhz-1-3ghz-receiver-1258-with-rmrc-comtech-tuner?utm_source=oscarliang&utm_medium=blog)
+
+#### Hardware
+
+### 1.3 GHz
+
 - [OscarLiang: Review: RMRC 1.3GHz 400mW VTX Video Transmitter](https://oscarliang.com/rmrc-1-3ghz-400mw-vtx/)
-- [OscarLiang: Review: FuriousFPV 2.4GHz FPV System | True-D Module & Stealth VTX](https://oscarliang.com/2-4ghz-fpv-furiousfpv-true-d/)
 - [OscarLiang: Guide: 1.2GHz -1.3GHz FPV Video System](https://oscarliang.com/1-2ghz-fpv-guide/)
+
+#### Hardware
+
+### 2.4 GHz
+
+- [OscarLiang: Review: FuriousFPV 2.4GHz FPV System | True-D Module & Stealth VTX](https://oscarliang.com/2-4ghz-fpv-furiousfpv-true-d/)
 
 #### Hardware
 
