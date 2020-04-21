@@ -28,6 +28,11 @@ CRSF Module Status:
 - Op. Mode: Normal
 - Bluetooth: MAVLink
 
-### References
+### Notes
+
+TBS uses Semtech SX1272
+
+### References0
 
 - [Crossfire and Pixhawk: RC Control (S-Bus, MAVLink) and telemetry options - Painless 360](https://www.youtube.com/watch?v=b55rdaDCKaM)
+- [Semtech SX1272 - DigiKey](https://www.digikey.com/en/product-highlight/s/semtech/sx1272-rf-transceiver)
