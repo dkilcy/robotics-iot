@@ -12,6 +12,11 @@ Test Print:
 - Height 0.2mm
 - Slice first layer 0.18mm
 
+### Notes
+
+- Not good at printing medium 5x5" ABS models.  Excellent at printing smaller ABS models.
+- Tested @50C with ABS in insulated elcosure: Large models have problems with support structures. 
+
 #### References
 
 - [Easy Live Leveling Video](https://www.youtube.com/watch?v=gkZUAyTxU1Q)
