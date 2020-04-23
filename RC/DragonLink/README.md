@@ -14,7 +14,7 @@ DragonLink recommends using only the Large 1000W Advanced Receiver due to high b
 
 **IMPORTANT:** Make sure the antennas are connected to the transmitter and receiver **BEFORE POWERING ON**
 
-## V3 Transmitter
+## V3 Transmitter Module
 
 Need a Windows computer for this step.
 
