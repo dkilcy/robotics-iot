@@ -1,32 +1,45 @@
 
 # DragonLink RC Setup
 
-DragonLink recommends using only the Large 1000W Receiver due to high bandwidth utilization and for best telemetry range.
-
 Configuration:
 - Taranis transmitter with DragonLink module for RC
 - MAVLink with Flow Control Enabled between receiver and flight controller
 - Bluetooth MAVLink connection to Mission Planner
+- Tested with:
+  - DragonLink GUI version 3.0.2.6
+  - Transmitter firmware version 3.315
+
+DragonLink recommends using only the Large 1000W receiver due to high bandwidth utilization and for best telemetry range.
+
+**IMPORTANT** Make sure the antennas are connected to the transmitter and receiver **BEFORE POWERING ON**
 
 ## V3 Transmitter
 
+Need a Windows computer for this step.
+
+1. Connect the USB from the computer to the transmitter module.  **IMPORTANT** Make sure the antenna is connected to the transmitter module 
+2. Run the DragonLink Config GUI Windows application.  The Home tab with "Welcome to DragonLink" will appear.  Select the TX tab to enter the Transmitter GUI.
+
 ### DragonLink Transmitter Setup
 
-On the DragonLink Transmitter GUI:
-1. Reset to factory settings
+On the DragonLink Transmitter GUI, do the following.
+
+From Settings->General Settings:
+1. Press the Reset to factory settings button.  A popup will appear that reads "Default ID used".  Click OK
 2. Set a new Transmit ID
 3. Configure the input for SBUS
-4. Configure power and alarms
-5. Save Settings
+4. Configure power and alarms, if desired
+5. Click Save Settings at the bottom
 
-Under RF settings: 
-1. Select 9X mode.
+From Settings->RF: 
+1. Set Speed and Data Range to 9X.
+2. Click Save Settings at the bottom
 
-Under External Connections:
+From Settings->External Connections:
 1. Set Baudrate to 57600
-2. Set UEXP (Expansion Connector) to "Radio Modem"
-3. Set Bluetooth to "Radio Modem" to use Bluetooth, otherwise set to "Dragonlink Mavlink" (????)
-4. Save Settings
+2. Set Expansion Connector to "Radio Modem"
+3. Set Bluetoot and Wifi to "DragonLink Mavlink"
+4. Click Save Settings at the bottom
 
 Reboot transmitter and verify saved settings.
 
@@ -46,12 +59,12 @@ From top, going left to right:
 - UEXP3 - 6-pin GH1.25 connector
 - UEXP1 - 5-pin GH1.25 connector
 
-### Wiring
-
-1. Connect 6-pin straight thru cable between UEXP3 on receiver and Telem2 port on Pixhawk.
-2. Power the receiver with 5.0-8.4 VDC to any GRD and VCC pins on the servo connectors.
-
 ### DragonLink Receiver Setup
+
+Need a Windows computer for this step.
+
+1. Connect the USB from the computer to the receiver.  **IMPORTANT** Make sure the antenna is connected to the receiver 
+2. Run the DragonLink Config GUI Windows application.  The Home tab with "Welcome to DragonLink" will appear.  Select the RX tab to enter the Receiver GUI.
 
 On the Dragonlink Receiver GUI:
 1. Reset to factory settings
@@ -72,11 +85,21 @@ Reboot receiver and verify saved settings.
 
 ### Binding
 
-Bind transmitter and receiver.  
+Transmitter:
+1. Connect Transmitter Module to JRT port on Taranis
+2. Create Model
 
-Link light will go blue on receiver when connected to the transmitter.  
+Receiver:
+1. Power the receiver with 5.0-8.4 VDC to any GRD and VCC pins on the servo connectors.
+
+Perform the Bind:
+Bind transmitter and receiver.  Link light will go blue on receiver when connected to the transmitter.  
+
+Power off both transmitter and receiver and verify both can reconnect.
 
 ### Mission Planner Setup
+
+Connect the flight controller to the computer via USB and start Mission Planner.
 
 Set parameters for Serial Telem2 port:
 
@@ -111,6 +134,15 @@ Power on your plane.
 After you see the blue telemetry light show up on the TX, hit "Connect" in mission planner.
 It should come right up and work. If it fails right away, select the other bluetooth serial port, power cycle the DL TX and hit connect as soon as you see the blue light.
 ```
+
+### Vehicle Wiring
+
+Complete the vehicle wiring.
+
+**IMPORTANT**: Make sure both receiver and flight controller are **POWERED OFF**
+
+On the vehicle:
+1. Connect 6-pin straight thru cable between UEXP3 on receiver and Telem2 port on Pixhawk.
 
 ### Bench Test
 
