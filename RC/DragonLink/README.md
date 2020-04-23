@@ -11,13 +11,13 @@ Configuration:
 
 DragonLink recommends using only the Large 1000W receiver due to high bandwidth utilization and for best telemetry range.
 
-**IMPORTANT** Make sure the antennas are connected to the transmitter and receiver **BEFORE POWERING ON**
+**IMPORTANT:** Make sure the antennas are connected to the transmitter and receiver **BEFORE POWERING ON**
 
 ## V3 Transmitter
 
 Need a Windows computer for this step.
 
-1. Connect the USB from the computer to the transmitter module.  **IMPORTANT** Make sure the antenna is connected to the transmitter module 
+1. Connect the USB from the computer to the transmitter module.  **IMPORTANT:** Make sure the antenna is connected to the transmitter module 
 2. Run the DragonLink Config GUI Windows application.  The Home tab with "Welcome to DragonLink" will appear.  Select the TX tab to enter the Transmitter GUI.
 
 ### DragonLink Transmitter Setup
@@ -63,7 +63,7 @@ From top, going left to right:
 
 Need a Windows computer for this step.
 
-1. Connect the USB from the computer to the receiver.  **IMPORTANT** Make sure the antenna is connected to the receiver 
+1. Connect the USB from the computer to the receiver.  **IMPORTANT:** Make sure the antenna is connected to the receiver 
 2. Run the DragonLink Config GUI Windows application.  The Home tab with "Welcome to DragonLink" will appear.  Select the RX tab to enter the Receiver GUI.
 
 On the Dragonlink Receiver GUI:
