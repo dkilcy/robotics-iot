@@ -150,3 +150,4 @@ On the vehicle:
 ## References
 
 - [DragonLink - Radio Modem Telemetry](http://www.dragonlinkrc.com/instructions/v3equipment/radiomodem/)
+- [DragonLink - Downloads](http://www.dragonlinkrc.com/instructions/v3equipment/v3downloads/)
