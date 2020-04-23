@@ -8,8 +8,9 @@ Configuration:
 - Tested with:
   - DragonLink GUI version 3.0.2.6
   - Transmitter firmware version 3.315
+  - Receiver firmware 3.302
 
-DragonLink recommends using only the Large 1000W receiver due to high bandwidth utilization and for best telemetry range.
+DragonLink recommends using only the Large 1000W Advanced Receiver due to high bandwidth utilization and for best telemetry range.
 
 **IMPORTANT:** Make sure the antennas are connected to the transmitter and receiver **BEFORE POWERING ON**
 
@@ -39,24 +40,25 @@ From Settings->External Connections:
 1. Set Baudrate to 57600
 2. Set Expansion Connector to "Radio Modem"
 3. Set Bluetoot and Wifi to "DragonLink Mavlink"
-4. Click Save Settings at the bottom
+4. `If you want mavlink decoding to "Taranis Telemetry" and have the proper wire connected to the UEXP port, select "Enable Mavlink Decoding" and "Taranis Telemetry" on the expansion connector.` ???
+5. Click Save Settings at the bottom
 
 Reboot transmitter and verify saved settings.
 
-## Large 1000W Receiver
+## Large Advanced Receiver (V2)
 
 ### Antenna Orientation
 
 1. The top element antenna wire MUST ALWAYS BE MOUNTED VERTICAL
 2. The LOWER ( GROUND ) wire element of the antenna can be mounted horizontal on small planes and copters where there is no room to mount the bottom element vertical.
 
-#### Connectors
+### Connectors
 
 From top, going left to right:
 
 - Servo:  RSSI, Channels 12 to 1.  Signal, VIN, GND
 - CEXP2 - 5-pin GH1.25 connector
-- UEXP3 - 6-pin GH1.25 connector
+- UEXP3 - 6-pin GH1.25 connector 
 - UEXP1 - 5-pin GH1.25 connector
 
 ### DragonLink Receiver Setup
@@ -64,22 +66,28 @@ From top, going left to right:
 Need a Windows computer for this step.
 
 1. Connect the USB from the computer to the receiver.  **IMPORTANT:** Make sure the antenna is connected to the receiver 
-2. Run the DragonLink Config GUI Windows application.  The Home tab with "Welcome to DragonLink" will appear.  Select the RX tab to enter the Receiver GUI.
+2. Run the DragonLink Config GUI Windows application.  The Home tab with "Welcome to DragonLink" will appear.  Select the "AdvancedRX V2" tab to enter the Receiver GUI.
 
-On the Dragonlink Receiver GUI:
-1. Reset to factory settings
-2. configure PPM/S.Bus for 12 channels (as needed). 
-3. Configure the PWM/PPM/SBUS/RSSI outputs as desired.
-4. Save Settings
+On the DragonLink Transmitter GUI, do the following.
 
-Under Radio Modem:
+From Settings->General Settings:
+1. Press the Reset to factory settings button.  A popup will appear that reads "Default ID used".  Click OK
+2. Click Save Settings at the bottom
+
+From Settings->Receiver outputs:
+2. Configure PPM/S.Bus for 8 or 12 channels
+3. Configure the PWM/PPM/SBUS/RSSI outputs as desired. (???)
+4. Click Save Settings at the bottom
+
+From Settings->Radio Modem:
 1. Select 57600 baud
 2. Click Set Baud
-3. Save Settings
+3. `If you plan to use "Taranis Telemetry" mode on the transmitter, enable "Mavlink Decoding". Otherwise you can leave it disabled.`  (???)
+4. Click Save Settings at the bottom
 
-Under Receiver Outputs:
-1. Configure the UEXP3 pins as: Serial In, Serial Out, CTS, RTS
-2. Save Settings
+From Settings->Receiver outputs:
+1. Scroll down and configure the UEXP3 pins as: Serial In, Serial Out, CTS, RTS
+2. Click Save Settings at the bottom
 
 Reboot receiver and verify saved settings.
 
