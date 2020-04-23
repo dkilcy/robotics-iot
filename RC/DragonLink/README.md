@@ -1,5 +1,5 @@
 
-## DragonLink RC Setup
+# DragonLink RC Setup
 
 DragonLink recommends using only the Large 1000W Receiver due to high bandwidth utilization and for best telemetry range.
 
@@ -8,30 +8,7 @@ Configuration:
 - MAVLink with Flow Control Enabled between receiver and flight controller
 - Bluetooth MAVLink connection to Mission Planner
 
-### V3 Transmitter
-
-
-### Receiver
-
-
-#### Antenna Orientation
-
-1. The top element antenna wire MUST ALWAYS BE MOUNTED VERTICAL
-2. The LOWER ( GROUND ) wire element of the antenna can be mounted horizontal on small planes and copters where there is no room to mount the bottom element vertical.
-
-##### Connectors
-
-From top, going left to right:
-
-- Servo:  RSSI, Channels 12 to 1.  Signal, VIN, GND
-- CEXP2 - 5-pin GH1.25 connector
-- UEXP3 - 6-pin GH1.25 connector
-- UEXP1 - 5-pin GH1.25 connector
-
-### Wiring
-
-1. Connect 6-pin straight thru cable between UEXP3 on receiver and Telem2 port on Pixhawk.
-2. Power the receiver with 5.0-8.4 VDC to any GRD and VCC pins on the servo connectors.
+## V3 Transmitter
 
 ### DragonLink Transmitter Setup
 
@@ -52,6 +29,27 @@ Under External Connections:
 4. Save Settings
 
 Reboot transmitter and verify saved settings.
+
+## Large 1000W Receiver
+
+### Antenna Orientation
+
+1. The top element antenna wire MUST ALWAYS BE MOUNTED VERTICAL
+2. The LOWER ( GROUND ) wire element of the antenna can be mounted horizontal on small planes and copters where there is no room to mount the bottom element vertical.
+
+#### Connectors
+
+From top, going left to right:
+
+- Servo:  RSSI, Channels 12 to 1.  Signal, VIN, GND
+- CEXP2 - 5-pin GH1.25 connector
+- UEXP3 - 6-pin GH1.25 connector
+- UEXP1 - 5-pin GH1.25 connector
+
+### Wiring
+
+1. Connect 6-pin straight thru cable between UEXP3 on receiver and Telem2 port on Pixhawk.
+2. Power the receiver with 5.0-8.4 VDC to any GRD and VCC pins on the servo connectors.
 
 ### DragonLink Receiver Setup
 
@@ -117,6 +115,6 @@ It should come right up and work. If it fails right away, select the other bluet
 ### Bench Test
 
 
-### References
+## References
 
 - [DragonLink - Radio Modem Telemetry](http://www.dragonlinkrc.com/instructions/v3equipment/radiomodem/)
