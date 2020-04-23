@@ -1,15 +1,17 @@
 
 ## DragonLink RC Setup
 
-
 DragonLink recommends using only the Large 1000W Receiver due to high bandwidth utilization and for best telemetry range.
 
+Configuration:
+- Taranis transmitter with DragonLink module for RC
+- MAVLink with Flow Control Enabled between receiver and flight controller
+- Bluetooth MAVLink connection to Mission Planner
 
 ### V3 Transmitter
 
 
 ### Receiver
-
 
 
 #### Antenna Orientation
