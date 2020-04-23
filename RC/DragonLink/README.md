@@ -91,17 +91,34 @@ From Settings->Receiver outputs:
 
 Reboot receiver and verify saved settings.
 
+### Model Creation
+
+#### Wiring
+
+1. Ensure the transmitter is powered off.
+1. Connect Transmitter Module to external port on Taranis (3 or 4 pin)
+
+#### Model Configuration
+
+1. Create a new Model for desired vehicle
+2. Set the following values in the Model Setup Menu:
+  - Internal RF Mode: Off
+  - External RF:
+    - Mode: SBUS
+    - Channel Range: CH1-8
+    - External RF: SBUS
+    - Refresh rate: 7.0ms  normal
+  
 ### Binding
 
-Transmitter:
-1. Connect Transmitter Module to JRT port on Taranis
-2. Create Model
-
-Receiver:
-1. Power the receiver with 5.0-8.4 VDC to any GRD and VCC pins on the servo connectors.
-
-Perform the Bind:
-Bind transmitter and receiver.  Link light will go blue on receiver when connected to the transmitter.  
+1. Ensure the transmitter and receiver is both powered off. 
+2. Hold down the Menu button on the DragonLink transmitter and turn on the power. 
+3. After the power-on sound is played, continue to hold the menu button until the LED(s) on the transmitter turn blue accompanied by 2 beeps. 
+4. Release the Menu button. 
+5. The transmitter will continue to play 2 beeps (if the bind mode alarm is enabled) and the LED(s) will flash blue to indicate it is in binding mode. 
+6. Power on the receiver. 
+7. The receiver’s blue and green LEDs should both begin flashing to indicate a successful bind. 
+8. Power off both the receiver and the transmitter to save the binding. 
 
 Power off both transmitter and receiver and verify both can reconnect.
 
@@ -151,6 +168,7 @@ Complete the vehicle wiring.
 
 On the vehicle:
 1. Connect 6-pin straight thru cable between UEXP3 on receiver and Telem2 port on Pixhawk.
+2. Power the receiver with 5.0-8.4 VDC to any GRD and VCC pins on the servo connectors.
 
 ### Bench Test
 
