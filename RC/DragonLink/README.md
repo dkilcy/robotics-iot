@@ -179,3 +179,4 @@ It should come right up and work. If it fails right away, select the other bluet
 
 - [DragonLink - Radio Modem Telemetry](http://www.dragonlinkrc.com/instructions/v3equipment/radiomodem/)
 - [DragonLink - Downloads](http://www.dragonlinkrc.com/instructions/v3equipment/v3downloads/)
+- [DragonLink - Large 1000 mW Receiver](http://www.dragonlinkrc.com/instructions/v3equipment/large1000mwreceiver/)
