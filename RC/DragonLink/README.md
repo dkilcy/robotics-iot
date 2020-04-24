@@ -122,6 +122,16 @@ Reboot receiver and verify saved settings.
 
 Power off both transmitter and receiver and verify both can reconnect.
 
+### Vehicle Wiring
+
+Complete the vehicle wiring.
+
+**IMPORTANT**: Make sure both receiver and flight controller are **POWERED OFF**
+
+On the vehicle:
+1. Connect 6-pin straight thru cable between UEXP3 on receiver and Telem2 port on Pixhawk.
+2. Power the receiver with 5.0-8.4 VDC to any GRD and VCC pins on the servo connectors.
+
 ### Mission Planner Setup
 
 Connect the flight controller to the computer via USB and start Mission Planner.
@@ -160,15 +170,7 @@ After you see the blue telemetry light show up on the TX, hit "Connect" in missi
 It should come right up and work. If it fails right away, select the other bluetooth serial port, power cycle the DL TX and hit connect as soon as you see the blue light.
 ```
 
-### Vehicle Wiring
 
-Complete the vehicle wiring.
-
-**IMPORTANT**: Make sure both receiver and flight controller are **POWERED OFF**
-
-On the vehicle:
-1. Connect 6-pin straight thru cable between UEXP3 on receiver and Telem2 port on Pixhawk.
-2. Power the receiver with 5.0-8.4 VDC to any GRD and VCC pins on the servo connectors.
 
 ### Bench Test
 
