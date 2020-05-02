@@ -1,5 +1,5 @@
 
-## FPV Mini Quad (Build 1)
+## Mini Quad (Build 1)
 
 - Frame: TBS SOURCE ONE 5" V0.2
 - Wheelbase: 220mm(5") x 300mm(7")
