@@ -4,7 +4,7 @@
 - [JST GH 1.25mm](http://www.jst-mfg.com/product/detail_e.php?series=105) (Japan)
 - [Hirose DF-13 1.25mm](https://www.hirose.com/product/series/DF13?lang=en) (Japan)
 - [Molex Picoblade MX 1.25mm](https://www.molex.com/molex/products/family/picoblade) (USA)
-- DuPont 2.54mm - Breadboards, Servos, Arduino, RPi, et. al.
+- Dupont 2.54mm - Breadboards, Servos, Arduino, RPi, et. al.
 - [JST SH 1.0mm](http://www.jst-mfg.com/product/detail_e.php?series=231) (Japan)
 - XT-series power connectors
 - EC-series power connectors
