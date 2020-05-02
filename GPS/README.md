@@ -1,7 +1,11 @@
 
 ### GPS
 
+### GPS Models
 
+| Model | Compass | Baudrate | Link | 
+| - | - | - | - |
+| Beitian BN-880 | HMC5883L | 9600 | https://www.amazon.com/gp/product/B078Y6323W |
 
 ### Wiring
 
