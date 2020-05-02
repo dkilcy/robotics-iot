@@ -3,9 +3,10 @@
 
 ### GPS Models
 
-| Model | Compass | Baudrate | Link | 
-| - | - | - | - |
-| Beitian BN-880 | HMC5883L | 9600 | https://www.amazon.com/gp/product/B078Y6323W |
+| Model | Compass | Baudrate | Connector | Link | 
+| - | - | - | - | - |
+| Beitian BN-880 | HMC5883L | 9600 | PicoBlade 1.25mm | https://www.amazon.com/gp/product/B078Y6323W |
+| Matek M8Q-5883 | QMC5883L | 9600 | SH 1.0mm | https://www.amazon.com/Matek-Systems-M8Q-5883-GPS-Module/dp/B07KC6QVW9 |
 
 ### Wiring
 
