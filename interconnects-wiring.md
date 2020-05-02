@@ -1,7 +1,7 @@
 
 ## Interconnects and Wiring
 
-- JST GH Series 1.25mm
+- [JST GH Series 1.25mm](http://www.jst-mfg.com/product/detail_e.php?series=105) (Japan)
 - [Hirose DF-13](https://www.hirose.com/product/series/DF13?lang=en) 1.25mm (Japan)
 - [Molex Picoblade](https://www.molex.com/molex/products/family/picoblade) (MX) 1.25mm 
 
