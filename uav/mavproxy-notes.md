@@ -9,6 +9,22 @@ Tutorial: [Copter SITL/MAVProxy Tutorial](https://ardupilot.org/dev/docs/copter-
 
 - Start SITL with console and map: `cd ~/git/ardupilot/ArduCopter; sim_vehicle.py --console --map`
 
+## Commands
+
+Copter should take off to an altitude of 40 metres and then hover (while it waits for the next command):
+```
+mode guided
+arm throttle
+takeoff 40
+```
+
+The command below shows how to put Copter into CIRCLE mode with a CIRCLE_RADIUS of 2000cm. This will fly the Copter in a circle at a constant altitude, with the front pointed towards the centre of the circle.
+```
+mode circle
+param set circle_radius 2000
+```
+
+
 ## Cheat Sheet
 
 ### Link
