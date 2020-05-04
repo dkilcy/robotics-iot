@@ -3,17 +3,25 @@
 
 ### Software
 
+#### Ground Control Stations
+
+- [MAVProxy](https://ardupilot.github.io/MAVProxy/html/index.html)
 - [Ardupilot Mission Planner](http://ardupilot.org/planner/)
   - [Download](http://firmware.ardupilot.org/Tools/MissionPlanner/)
-- [BetaFlight Configurator](https://github.com/betaflight/betaflight-configurator)
-  - [Download](https://github.com/betaflight/betaflight-configurator/releases)
 - [QGC - QGroundControl](http://qgroundcontrol.com/)
   - [Download](https://docs.qgroundcontrol.com/en/getting_started/download_and_install.html)
+  
+#### Firmware Tools
+
+- [BetaFlight Configurator](https://github.com/betaflight/betaflight-configurator)
+  - [Download](https://github.com/betaflight/betaflight-configurator/releases)
 - OpenTX Companion 
 - TBS Agent-X
+
+#### Closed-Source
+
 - Yuneec Q500 GUI
 - DJI Assistant
-
 
 
 ### USA Drones
