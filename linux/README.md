@@ -1,25 +1,29 @@
 
 # General Linux
 
-Setting up GitHub:
+## Setting up GitHub
 
+Generate a RSA key pair and add the public key to GitHub
 ```
  ssh-keygen -t rsa -b 4096
 ```
 
-
+Install and configure GitHub
 ```
-  399  git clone git@github.com:dkilcy/robotics-iot.git
-  426  git add --all
-  427  git commit .
-  428  git config --global user.email "david@kilcyconsulting.com"
-  429  git config --global user.name "David Kilcy"
-  430  git commit .
-  431  git config --global core.editor vi
-  432  git commit .
-  433  git push
-  435  git pull
+sudo apt-get install git
+git config --global user.email "david@kilcyconsulting.com"
+git config --global user.name "David Kilcy"
+git config --global core.editor vi
 ```
 
+Checkout repository: `git clone git@github.com:dkilcy/robotics-iot.git`
 
+Commit data to GitHub
+```
+git add --all
+git commit .
+git push
+```
+
+Pull changes from GitHub: `git pull`
 
