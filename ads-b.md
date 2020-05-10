@@ -8,9 +8,11 @@ Automatic dependent surveillance–broadcast (ADS–B) is a surveillance technol
 
 ### Equipment
 
-- [Amazon: FlightAware 978 MHz ADS-B Antenna - 66 cm / 26 in - $40.95](https://www.amazon.com/dp/B07MXPQN7H/?coliid=I3F1A5GQO3S3N0)
+
 - [Amazon: FlightAware Pro Stick USB ADS-B Receiver - $18.75](https://www.amazon.com/dp/B01D1ZAP3C/?coliid=IA1HDP7WP0BA1)
 - [Amazon: ADS-B Dual 978 MHz + 1090 MHz Band-Pass SMA Filter - $14.95](https://www.amazon.com/dp/B010GBQXK8/)
+- [Amazon: FlightAware 1090 MHz ADS-B Antenna - 66 cm / 26 in - $45.95](https://www.amazon.com/1090MHz-ADS-B-Antenna-66cm-26in/dp/B00WZL6WPO)
+- [Amazon: FlightAware 978 MHz ADS-B Antenna - 66 cm / 26 in - $40.95](https://www.amazon.com/dp/B07MXPQN7H/?coliid=I3F1A5GQO3S3N0)
 
 ### References
 
