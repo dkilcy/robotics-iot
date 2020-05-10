@@ -1,6 +1,12 @@
 
 ## Raspberry PI Notes
 
+HAT stands for “Hardware attached on top”. It is a new hardware specification for add-one modules for the new Raspberry Pi model B+. HATs have several advantages compared to older add-on modules for the Raspberry Pi.
+
+- No soldering
+- Robust mechanical design
+- Auto-configuration
+
 ### Commands
 
 Update Raspbian OS: `sudo apt-get update ; sudo apt full-upgrade`
