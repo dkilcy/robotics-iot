@@ -1,5 +1,21 @@
 
-# DHCP Server setup on multihomed computers
+# Linux Netwoking
+
+## General
+
+
+```
+route add -net 10.130.1.0/24 gw 10.130.1.1 dev enp2s0
+
+#persistent static routes in /etc/network/interfaces
+#up route add -net 10.130.1.0/24 gw 10.130.1.1 dev enp2s0
+```
+
+- [adding persistent static routes on ubuntu](http://www.networkinghowtos.com/howto/adding-persistent-static-routes-on-ubuntu/)
+
+
+
+## DHCP Server setup on multihomed computers
 
 Install DHCP Server on Ubuntu and configure it to serve addresses for a private subnet on the ethernet interface.  The wireless device continues to be the default route.  
 
