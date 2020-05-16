@@ -13,6 +13,7 @@
   
 #### Firmware Tools
 
+- [Ardupilot: Loading Firmware](https://ardupilot.org/copter/docs/common-loading-firmware-onto-pixhawk.html)
 - [BetaFlight Configurator](https://github.com/betaflight/betaflight-configurator)
   - [Download](https://github.com/betaflight/betaflight-configurator/releases)
 - OpenTX Companion 
