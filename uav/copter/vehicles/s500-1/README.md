@@ -44,4 +44,7 @@ Channel Setup:
   
 ### Model Configuration
 
+Taranis X9D SE 2019 Configuration:
+- SA is Flight Mode
+- SI (Button) is LED Control
 
