@@ -53,6 +53,17 @@ Taranis X9D SE 2019 Configuration:
 
 <img src="20200307_161549.jpg" alt="drawing" width="250"/> <img src="20200307_161612.jpg" alt="drawing" width="250"/> <img src="20200307_161630.jpg" alt="drawing" width="250"/>
 
+### Flight Test
+
+You can only arm or disarm in Stabilize, ACRO, AltHold, Loiter, and PosHold modes.
+
+Arming motors: 
+1. Press Arming Switch for 3 seconds
+2. Throttle Down, Rudder Right for 5 seconds
+
+Disarm motors: 
+1. Throttle Down, Rudder left for 5 seconds
+
 ### Notes
 
 - 12x4.5 vs 13x4.5 props.  12.5 will give longer flight time but 13x4.5 will give more thrust at sacrifice of flight time
