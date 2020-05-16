@@ -1,13 +1,19 @@
 
 ## ZD550 Build
 
-TODO:
+- Last Updated: 5/16/2020
 
-- 12x4.5 vs 13x4.5 props.  12.5 will give longer flight time but 13x4.5 will give more thrust at sacrifice of flight time
+### Flash History
 
-### Summary
+- Flashed ArduCopter V4.0.3 on 5/16/2020
+
+### Components
 
 - [USAQ 550mm Compact Folding Quadcopter Drone Frame Kit Full Carbon Fiber Construction](https://www.amazon.com/USAQ-Compact-Folding-Quadcopter-Construction/dp/B078MX6XQP)
+  - Motor: 35-41 motor (recommended at least 3508 motor)
+  - Prop: 12-15 inch CW CCW
+  - ESC: 20-30A(2-6s) ; 40A (2-4S)
+  - Battery: 2-6S Lipo
 - [Holybro Pixhawk 4](http://www.holybro.com/product/pixhawk-4/)
 - [Holybro Pixhawk 4 PM07](http://www.holybro.com/product/pixhawk-4-power-module-pm07/)
 - [Holybro Pixhawk 4 GPS Module](http://www.holybro.com/product/pixhawk-4-gps-module/)
@@ -34,24 +40,9 @@ FPV:
 - [SummitLink FPV 3 Channel Video Switch Module 3 way Video Switcher Unit for FPV cameras](https://www.amazon.com/gp/product/B00R5CJEY4)
 - Runcam Swift 2
 
-### Firmware
+### Copter Configuration
 
-
-### Mission Planner
-
-
-### Frame
-
-<img src="motororder-quad-x-2d.png" alt="drawing" width="100"/> 
-
-Specifications:  
-
-<img src="20200307_200015.jpg" alt="drawing" width="200">
-
-- Motor: 35-41 motor (recommended at least 3508 motor)
-- Prop: 12-15 inch CW CCW
-- ESC: 20-30A(2-6s) ; 40A (2-4S)
-- Battery: 2-6S Lipo
+#### Mission Planner Setup
 
 ### Wiring
 
@@ -62,4 +53,7 @@ Specifications:
 ### Transmitter Setup
 
 ### Notes
+
+- 12x4.5 vs 13x4.5 props.  12.5 will give longer flight time but 13x4.5 will give more thrust at sacrifice of flight time
+
 
