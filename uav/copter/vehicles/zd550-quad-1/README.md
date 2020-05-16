@@ -33,7 +33,7 @@
   - Bolt hole spacing: 19mm * 25mm
 - 4x [Readytosky 30A ESC Opto 2-6S Brushless Speed Controller for F450 S500 ZD550 RC Helicopter Quadcopter](https://www.amazon.com/gp/product/B07PZTB2MH/)
 
-Total weight from above: 1430g
+Total weight of copter without battery: 1430g
 
 FPV:
 - VTX 
@@ -44,13 +44,14 @@ FPV:
 
 #### Mission Planner Setup
 
+### Model Configuration
+
+Taranis X9D SE 2019 Configuration:
+- SA is Flight Mode
+
 ### Wiring
 
 <img src="20200307_161549.jpg" alt="drawing" width="250"/> <img src="20200307_161612.jpg" alt="drawing" width="250"/> <img src="20200307_161630.jpg" alt="drawing" width="250"/>
-
-### Receiver Setup
-
-### Transmitter Setup
 
 ### Notes
 
