@@ -5,7 +5,7 @@
 
 ### Flash History
 
-- 
+- Flashed ArduCopter V4.0.3 on 5/16/2020
 
 ### Components
 
@@ -28,4 +28,11 @@
 
 ### Model Configuration
 
-
+- Channel 5 is Flight Mode: Stabilize, Loiter, RTL
+- Channel 9 is LED control.  Press 3+ seconds to turn on and off.  When on, momentary press to cycle thru modes
+  - Red solid, Green slow flash
+  - Red solid, Green fast flash
+  - Red solid, Green double flash
+  - Red solid, Green breathe
+  - Red solid, Green solid
+  
