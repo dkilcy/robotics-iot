@@ -15,6 +15,8 @@ The DF-13 and Molex Picoblade will connect to each other but they are 2 differen
 
 ### References
 
+- [https://www.lambdrive.com/depot/Robotics/Controller/PixhawkFamily/Connector/index.html](https://www.lambdrive.com/depot/Robotics/Controller/PixhawkFamily/Connector/index.html)
+
 JST GH Series:
 - [DigiKey - GH/GHD Series 1.25mm Wire to Board Connectors](https://www.digikey.com/en/ptm/j/jst-sales-america/ghghd-series-1-25mm-wire-to-board-connectors)
 - [Digikey - JST GH 1.25mm Connector Housing](https://www.digikey.com/catalog/en/partgroup/gh-series/8397)
