@@ -25,8 +25,15 @@
 
 ### Copter Configuration
 
+#### Mission Planner Setup
 
-### Model Configuration
+[5-16-2020: Full Parameter List](./s500-1-05-16-2020-12-46.param)
+
+RC Control Parameters:
+- RCMAP_PITCH	2
+- RCMAP_ROLL	4
+- RCMAP_THROTTLE	3
+- RCMAP_YAW	1
 
 - Channel 5 is Flight Mode: Stabilize, Loiter, RTL
 - Channel 9 is LED control.  Press 3+ seconds to turn on and off.  When on, momentary press to cycle thru modes
@@ -36,3 +43,7 @@
   - Red solid, Green breathe
   - Red solid, Green solid
   
+
+### Model Configuration
+
+
