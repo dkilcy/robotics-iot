@@ -18,10 +18,9 @@
 - FrSky High Precison Variometer Sensor
 - FrSky MLVSS Mini Lipo Voltage Sensor
 - FrSky Yaapu Telemetry Converter Cable 
+- 3D Bodywork: [https://www.thingiverse.com/thing:3184989](https://www.thingiverse.com/thing:3184989)
 
-#### 3D Parts
-
-- Bodywork: [https://www.thingiverse.com/thing:3184989](https://www.thingiverse.com/thing:3184989)
+Total weight of copter without battery: 
 
 ### Copter Configuration
 
@@ -41,10 +40,11 @@ Channel Setup:
   - Red solid, Green double flash
   - Red solid, Green breathe
   - Red solid, Green solid
-  
+ 
 ### Model Configuration
 
 Taranis X9D SE 2019 Configuration:
 - SA is Flight Mode
 - SI (Button) is LED Control
 
+### Notes
