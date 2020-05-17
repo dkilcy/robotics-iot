@@ -1,11 +1,11 @@
 
 ## ZD550 Build
 
-- Last Updated: 5/16/2020
+- Last Updated: 2020-05-16
 
 ### Flash History
 
-- Flashed ArduCopter V4.0.3 on 5/16/2020
+- Flashed ArduCopter V4.0.3 on 2020-05-16
 
 ### Components
 
@@ -57,7 +57,7 @@ Taranis X9D SE 2019 Configuration:
 
 Perform ESC calibration
 
-### Verification
+### Post-Build Verification
 
 
 
