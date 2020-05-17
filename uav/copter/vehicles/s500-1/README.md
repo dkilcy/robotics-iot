@@ -1,11 +1,11 @@
 
-# S500
+# S500_X8R Build
 
-- Last Updated: @date@
+- Last Updated: 2020-05-17
 
 ### Flash History
 
-- Flashed ArduCopter V4.0.3 on 5/16/2020
+- Flashed ArduCopter V4.0.3 on 2020-05-16
 
 ### Components
 
@@ -26,7 +26,7 @@ Total weight of copter without battery:
 
 #### Mission Planner Setup
 
-[5-16-2020: Full Parameter List](./s500-1-05-16-2020-12-46.param)
+[2020-05-16-12-46: Full Parameter List](./S500_X8R-2020-05-16-12-46.param)
 
 Channel Setup:
 - RCMAP_PITCH	2
