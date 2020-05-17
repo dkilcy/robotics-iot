@@ -31,7 +31,7 @@
   - Prop Shaft: 6mm bolt on hub or 12mm hole to hole for bolt threw style props
   - Weight: 102g
   - Bolt hole spacing: 19mm * 25mm
-- 4x [Readytosky 30A ESC Opto 2-6S Brushless Speed Controller for F450 S500 ZD550 RC Helicopter Quadcopter](https://www.amazon.com/gp/product/B07PZTB2MH/)
+- 4x [Readytosky 30A ESC Opto 2-6S Brushless Speed Controller for F450 S500 ZD550 RC Helicopter Quadcopter](https://www.amazon.com/gp/product/B07PZTB2MH/) **Requires Calibration - See below**
 
 Total weight of copter without battery: 1430g
 
@@ -53,6 +53,14 @@ Taranis X9D SE 2019 Configuration:
 
 <img src="20200307_161549.jpg" alt="drawing" width="250"/> <img src="20200307_161612.jpg" alt="drawing" width="250"/> <img src="20200307_161630.jpg" alt="drawing" width="250"/>
 
+### ESC Calibration
+
+Perform ESC calibration
+
+### Verification
+
+
+
 ### Flight Test
 
 You can only arm or disarm in Stabilize, ACRO, AltHold, Loiter, and PosHold modes.
@@ -68,4 +76,7 @@ Disarm motors:
 
 - 12x4.5 vs 13x4.5 props.  12.5 will give longer flight time but 13x4.5 will give more thrust at sacrifice of flight time
 
+### References
 
+- [Ardupilot: ESC Calibration](https://ardupilot.org/copter/docs/esc-calibration.html)
+- [Painless360: Multirotor build tips: Simple manual ESC calibration](https://www.youtube.com/watch?v=OOplk52R4no)
