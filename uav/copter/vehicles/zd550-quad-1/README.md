@@ -49,14 +49,6 @@ FPV:
 Taranis X9D SE 2019 Configuration:
 - SA is Flight Mode
 
-### Wiring
-
-<img src="20200307_161549.jpg" alt="drawing" width="250"/> <img src="20200307_161612.jpg" alt="drawing" width="250"/> <img src="20200307_161630.jpg" alt="drawing" width="250"/>
-
-### ESC Calibration
-
-Perform ESC calibration
-
 ### Post-Build Verification
 
 ### Flight Test
