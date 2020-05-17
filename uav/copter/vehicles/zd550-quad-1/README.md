@@ -31,7 +31,7 @@
   - Prop Shaft: 6mm bolt on hub or 12mm hole to hole for bolt threw style props
   - Weight: 102g
   - Bolt hole spacing: 19mm * 25mm
-- 4x [Readytosky 30A ESC Opto 2-6S Brushless Speed Controller for F450 S500 ZD550 RC Helicopter Quadcopter](https://www.amazon.com/gp/product/B07PZTB2MH/) **Requires Calibration - See below**
+- 4x [Readytosky 30A ESC Opto 2-6S Brushless Speed Controller for F450 S500 ZD550 RC Helicopter Quadcopter](https://www.amazon.com/gp/product/B07PZTB2MH/)
 
 Total weight of copter without battery: 1430g
 
