@@ -59,8 +59,6 @@ Perform ESC calibration
 
 ### Post-Build Verification
 
-
-
 ### Flight Test
 
 You can only arm or disarm in Stabilize, ACRO, AltHold, Loiter, and PosHold modes.
