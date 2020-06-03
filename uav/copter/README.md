@@ -9,5 +9,11 @@ Propellers                 |  Motor Order and Direction
 :-------------------------:|:-------------------------:
 <img src="quad-propellers.jpg" width="250"/> | <img src="motororder-quad-x-2d.png" width="250"/> 
 
-- A Reverse (R) propeller should rotate clockwise (pusher)
-- A Normal (N) propeller should rotate counterclockwise.
+For quadcopters:
+- A Reverse (R) propeller should rotate clockwise (pusher). 
+- A Normal (N) propeller should rotate counterclockwise (tractor).  
+
+The thicker-leading edge goes in the direction of rotation.
+
+
+
