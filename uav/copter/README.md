@@ -15,5 +15,9 @@ For quadcopters:
 
 The thicker-leading edge goes in the direction of rotation.
 
+### Quadcopter Build Notes
+
+- [Quadcopter Frame/Propeller/Motor Guide](./quad-frame-prop-motor-guide.md)
+
 
 
